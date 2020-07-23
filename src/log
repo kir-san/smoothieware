@@ -1,0 +1,1673 @@
+
+15:12:44.262 : N155 G28*18
+15:12:44.271 : DEBUG: cartesian_to_actuator (start)
+15:12:44.275 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:12:44.286 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:12:44.289 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:12:44.293 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:12:44.293 : DEBUG: cartesian_to_actuator (end)
+15:12:44.302 : DEBUG: cartesian_to_actuator (start)
+15:12:44.308 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:12:44.308 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:12:44.313 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:12:44.319 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:12:44.325 : DEBUG: cartesian_to_actuator (end)
+15:12:44.325 : DEBUG: cartesian_to_actuator (start)
+15:12:44.328 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:12:44.334 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:12:44.342 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:12:44.342 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:12:44.342 : DEBUG: cartesian_to_actuator (end)
+15:12:45.819 : DEBUG: actuator_to_cartesian (start)
+15:12:45.826 : DEBUG: actuator_mm x = 83.901146, y = 80.790024
+15:12:45.828 : DEBUG: x_sin =  119.320808
+15:12:45.830 : DEBUG: x_cos =  12.749296
+15:12:45.830 : DEBUG: y_sin =  31.682596
+15:12:45.837 : DEBUG: y_cos =  -115.742012
+15:12:45.837 : DEBUG: cartesian_mm[X_AXIS] = -29.992714
+15:12:45.840 : DEBUG: cartesian_mm[Y_AXIS] =  30.003403
+15:12:45.840 : DEBUG: actuator_to_cartesian (end)
+15:12:45.850 : DEBUG: cartesian_to_actuator (start)
+15:12:45.855 : DEBUG: cartesian_mm x=-29.992714, y=30.003403, z=0.001000
+15:12:45.860 : DEBUG: SCARA_pos x=-102.992714, y=151.003403
+15:12:45.867 : DEBUG: C2=0.160053, S2=0.987108, Theta=1.464351, Psi=1.410052
+15:12:45.867 : DEBUG: actuator_mm x=83.901146, y=80.790024, z=0.001000
+15:12:45.872 : DEBUG: cartesian_to_actuator (end)
+15:12:45.877 : DEBUG: cartesian_to_actuator (start)
+15:12:45.882 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:12:45.882 : DEBUG: SCARA_pos x=167.000000, y=151.000000
+15:12:45.888 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:12:45.894 : DEBUG: actuator_mm x=21.854780, y=40.529675, z=180.000000
+15:12:45.901 : DEBUG: cartesian_to_actuator (end)
+15:12:45.901 : DEBUG: actuator_to_cartesian (start)
+15:12:45.905 : DEBUG: actuator_mm x = 21.854780, y = 40.529675
+15:12:45.912 : DEBUG: x_sin =  44.670650
+15:12:45.912 : DEBUG: x_cos =  111.375648
+15:12:45.912 : DEBUG: y_sin =  106.329338
+15:12:45.918 : DEBUG: y_cos =  55.624378
+15:12:45.918 : DEBUG: cartesian_mm[X_AXIS] = 240.000031
+15:12:45.922 : DEBUG: cartesian_mm[Y_AXIS] =  29.999985
+15:12:45.927 : DEBUG: actuator_to_cartesian (end)
+15:12:45.928 : DEBUG: cartesian_to_actuator (start)
+15:12:45.932 : DEBUG: cartesian_mm x=240.000031, y=29.999985, z=180.000000
+15:12:45.937 : DEBUG: SCARA_pos x=167.000031, y=150.999985
+15:12:45.946 : DEBUG: C2=0.760070, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:12:45.946 : DEBUG: actuator_mm x=21.854784, y=40.529655, z=180.000000
+15:12:45.946 : DEBUG: cartesian_to_actuator (end)
+15:12:58.486 : N161 M665 X-73*113
+15:13:01.742 : N163 G28*23
+15:13:01.752 : DEBUG: cartesian_to_actuator (start)
+15:13:01.756 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:01.767 : DEBUG: SCARA_pos x=43.000000, y=151.000000
+15:13:01.770 : DEBUG: C2=-0.144097, S2=0.989564, Theta=0.435673, Psi=1.715397
+15:13:01.779 : DEBUG: actuator_mm x=24.962227, y=98.284996, z=0.000000
+15:13:01.779 : DEBUG: cartesian_to_actuator (end)
+15:13:01.783 : DEBUG: cartesian_to_actuator (start)
+15:13:01.788 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:01.788 : DEBUG: SCARA_pos x=43.000000, y=151.000000
+15:13:01.793 : DEBUG: C2=-0.144097, S2=0.989564, Theta=0.435673, Psi=1.715397
+15:13:01.799 : DEBUG: actuator_mm x=24.962227, y=98.284996, z=0.000000
+15:13:01.805 : DEBUG: cartesian_to_actuator (end)
+15:13:01.805 : DEBUG: cartesian_to_actuator (start)
+15:13:01.810 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:01.815 : DEBUG: SCARA_pos x=43.000000, y=151.000000
+15:13:01.823 : DEBUG: C2=-0.144097, S2=0.989564, Theta=0.435673, Psi=1.715397
+15:13:01.823 : DEBUG: actuator_mm x=24.962227, y=98.284996, z=0.000000
+15:13:01.823 : DEBUG: cartesian_to_actuator (end)
+15:13:03.299 : DEBUG: actuator_to_cartesian (start)
+15:13:03.306 : DEBUG: actuator_mm x = 24.957956, y = 98.287529
+15:13:03.306 : DEBUG: x_sin =  50.634373
+15:13:03.310 : DEBUG: x_cos =  108.794113
+15:13:03.310 : DEBUG: y_sin =  100.359512
+15:13:03.317 : DEBUG: y_cos =  -65.787292
+15:13:03.317 : DEBUG: cartesian_mm[X_AXIS] = -29.993179
+15:13:03.320 : DEBUG: cartesian_mm[Y_AXIS] =  29.993881
+15:13:03.320 : DEBUG: actuator_to_cartesian (end)
+15:13:03.330 : DEBUG: cartesian_to_actuator (start)
+15:13:03.336 : DEBUG: cartesian_mm x=-29.993179, y=29.993881, z=-0.000333
+15:13:03.341 : DEBUG: SCARA_pos x=43.006821, y=150.993881
+15:13:03.344 : DEBUG: C2=-0.144141, S2=0.989557, Theta=0.435599, Psi=1.715441
+15:13:03.353 : DEBUG: actuator_mm x=24.957956, y=98.287529, z=-0.000333
+15:13:03.353 : DEBUG: cartesian_to_actuator (end)
+15:13:03.357 : DEBUG: cartesian_to_actuator (start)
+15:13:03.363 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:13:03.363 : DEBUG: SCARA_pos x=313.000000, y=151.000000
+15:13:03.368 : DEBUG: C2=0.900000, S2=0.435890, Theta=0.223978, Psi=0.451027
+15:13:03.374 : DEBUG: actuator_mm x=12.833003, y=25.841936, z=180.000000
+15:13:03.381 : DEBUG: cartesian_to_actuator (end)
+15:13:03.381 : DEBUG: actuator_to_cartesian (start)
+15:13:03.386 : DEBUG: actuator_mm x = 12.833003, y = 25.841936
+15:13:03.392 : DEBUG: x_sin =  26.653219
+15:13:03.392 : DEBUG: x_cos =  117.002594
+15:13:03.392 : DEBUG: y_sin =  74.988152
+15:13:03.396 : DEBUG: y_cos =  93.684464
+15:13:03.396 : DEBUG: cartesian_mm[X_AXIS] = 137.687057
+15:13:03.402 : DEBUG: cartesian_mm[Y_AXIS] =  -19.358627
+15:13:03.408 : DEBUG: actuator_to_cartesian (end)
+15:13:03.408 : DEBUG: cartesian_to_actuator (start)
+15:13:03.412 : DEBUG: cartesian_mm x=137.687057, y=-19.358627, z=180.000000
+15:13:03.417 : DEBUG: SCARA_pos x=210.687057, y=101.641373
+15:13:03.425 : DEBUG: C2=0.900000, S2=0.435890, Theta=0.223978, Psi=0.451027
+15:13:03.425 : DEBUG: actuator_mm x=12.833003, y=25.841936, z=180.000000
+15:13:03.425 : DEBUG: cartesian_to_actuator (end)
+15:13:14.901 : N168 M360*41
+15:13:14.905 : set trim to X:0.000000 Y:0.000000 Z:0.000000
+15:13:14.915 : DEBUG: cartesian_to_actuator (start)
+15:13:14.921 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:14.921 : DEBUG: SCARA_pos x=43.000000, y=151.000000
+15:13:14.926 : DEBUG: C2=-0.144097, S2=0.989564, Theta=0.435673, Psi=1.715397
+15:13:14.932 : DEBUG: actuator_mm x=24.962227, y=98.284996, z=0.000000
+15:13:14.938 : DEBUG: cartesian_to_actuator (end)
+15:13:14.938 : DEBUG: cartesian_to_actuator (start)
+15:13:14.942 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:14.948 : DEBUG: SCARA_pos x=43.000000, y=151.000000
+15:13:14.956 : DEBUG: C2=-0.144097, S2=0.989564, Theta=0.435673, Psi=1.715397
+15:13:14.960 : DEBUG: actuator_mm x=24.962227, y=98.284996, z=0.000000
+15:13:14.960 : DEBUG: cartesian_to_actuator (end)
+15:13:14.965 : DEBUG: cartesian_to_actuator (start)
+15:13:14.969 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:14.980 : DEBUG: SCARA_pos x=43.000000, y=151.000000
+15:13:14.983 : DEBUG: C2=-0.144097, S2=0.989564, Theta=0.435673, Psi=1.715397
+15:13:14.983 : DEBUG: actuator_mm x=24.962227, y=98.284996, z=0.000000
+15:13:14.983 : DEBUG: cartesian_to_actuator (end)
+15:13:16.458 : DEBUG: actuator_to_cartesian (start)
+15:13:16.465 : DEBUG: actuator_mm x = 24.961365, y = 98.287529
+15:13:16.465 : DEBUG: x_sin =  50.640846
+15:13:16.469 : DEBUG: x_cos =  108.791107
+15:13:16.469 : DEBUG: y_sin =  100.355591
+15:13:16.475 : DEBUG: y_cos =  -65.793274
+15:13:16.476 : DEBUG: cartesian_mm[X_AXIS] = -30.002167
+15:13:16.479 : DEBUG: cartesian_mm[Y_AXIS] =  29.996429
+15:13:16.479 : DEBUG: actuator_to_cartesian (end)
+15:13:16.489 : DEBUG: cartesian_to_actuator (start)
+15:13:16.495 : DEBUG: cartesian_mm x=-30.002167, y=29.996429, z=-0.000333
+15:13:16.500 : DEBUG: SCARA_pos x=42.997833, y=150.996429
+15:13:16.503 : DEBUG: C2=-0.144141, S2=0.989557, Theta=0.435658, Psi=1.715441
+15:13:16.512 : DEBUG: actuator_mm x=24.961363, y=98.287537, z=-0.000333
+15:13:16.512 : DEBUG: cartesian_to_actuator (end)
+15:13:16.516 : DEBUG: cartesian_to_actuator (start)
+15:13:16.522 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:13:16.522 : DEBUG: SCARA_pos x=313.000000, y=151.000000
+15:13:16.527 : DEBUG: C2=0.900000, S2=0.435890, Theta=0.223978, Psi=0.451027
+15:13:16.533 : DEBUG: actuator_mm x=12.833003, y=25.841936, z=180.000000
+15:13:16.540 : DEBUG: cartesian_to_actuator (end)
+15:13:16.540 : DEBUG: actuator_to_cartesian (start)
+15:13:16.545 : DEBUG: actuator_mm x = 12.833003, y = 25.841936
+15:13:16.551 : DEBUG: x_sin =  26.653219
+15:13:16.551 : DEBUG: x_cos =  117.002594
+15:13:16.551 : DEBUG: y_sin =  74.988152
+15:13:16.554 : DEBUG: y_cos =  93.684464
+15:13:16.554 : DEBUG: cartesian_mm[X_AXIS] = 137.687057
+15:13:16.561 : DEBUG: cartesian_mm[Y_AXIS] =  -19.358627
+15:13:16.566 : DEBUG: actuator_to_cartesian (end)
+15:13:16.567 : DEBUG: cartesian_to_actuator (start)
+15:13:16.571 : DEBUG: cartesian_mm x=137.687057, y=-19.358627, z=180.000000
+15:13:16.577 : DEBUG: SCARA_pos x=210.687057, y=101.641373
+15:13:16.585 : DEBUG: C2=0.900000, S2=0.435890, Theta=0.223978, Psi=0.451027
+15:13:16.588 : DEBUG: actuator_mm x=12.833003, y=25.841936, z=180.000000
+15:13:16.588 : DEBUG: cartesian_to_actuator (end)
+15:13:16.597 : DEBUG: actuator_to_cartesian (start)
+15:13:16.602 : DEBUG: actuator_mm x = 0.000000, y = 120.000000
+15:13:16.602 : DEBUG: x_sin =  0.000000
+15:13:16.606 : DEBUG: x_cos =  120.000000
+15:13:16.606 : DEBUG: y_sin =  103.923042
+15:13:16.606 : DEBUG: y_cos =  -60.000008
+15:13:16.613 : DEBUG: cartesian_mm[X_AXIS] = -13.000008
+15:13:16.618 : DEBUG: cartesian_mm[Y_AXIS] =  -17.076958
+15:13:16.618 : DEBUG: actuator_to_cartesian (end)
+15:13:16.626 : DEBUG: move: G0 X-13.000 Y-17.077 Z180.000 F3600.0
+15:13:16.631 : DEBUG: cartesian_to_actuator (start)
+15:13:16.637 : DEBUG: cartesian_mm x=-13.000000, y=-17.077000, z=180.000000
+15:13:16.637 : DEBUG: SCARA_pos x=60.000000, y=103.923004
+15:13:16.642 : DEBUG: C2=-0.500000, S2=0.866025, Theta=-0.000000, Psi=2.094395
+15:13:16.645 : DEBUG: actuator_mm x=-0.000020, y=120.000008, z=180.000000
+15:13:16.645 : DEBUG: cartesian_to_actuator (end)
+15:13:29.471 : N174 G1 Y-1 F3000*42
+15:13:29.482 : DEBUG: cartesian_to_actuator (start)
+15:13:29.486 : DEBUG: cartesian_mm x=-13.000000, y=-1.000000, z=180.000000
+15:13:29.492 : DEBUG: SCARA_pos x=60.000000, y=120.000000
+15:13:29.500 : DEBUG: C2=-0.375000, S2=0.927025, Theta=0.129552, Psi=1.955193
+15:13:29.500 : DEBUG: actuator_mm x=7.422793, y=112.024300, z=180.000000
+15:13:29.500 : DEBUG: cartesian_to_actuator (end)
+15:13:31.078 : N175 G1 Y-2 F3000*40
+15:13:31.088 : DEBUG: cartesian_to_actuator (start)
+15:13:31.093 : DEBUG: cartesian_mm x=-13.000000, y=-2.000000, z=180.000000
+15:13:31.098 : DEBUG: SCARA_pos x=60.000000, y=119.000000
+15:13:31.107 : DEBUG: C2=-0.383299, S2=0.923624, Theta=0.121712, Psi=1.964161
+15:13:31.107 : DEBUG: actuator_mm x=6.973600, y=112.538155, z=180.000000
+15:13:31.107 : DEBUG: cartesian_to_actuator (end)
+15:13:31.961 : N177 G1 Y-3 F3000*43
+15:13:31.971 : DEBUG: cartesian_to_actuator (start)
+15:13:31.976 : DEBUG: cartesian_mm x=-13.000000, y=-3.000000, z=180.000000
+15:13:31.981 : DEBUG: SCARA_pos x=60.000000, y=118.000000
+15:13:31.990 : DEBUG: C2=-0.391528, S2=0.920166, Theta=0.113848, Psi=1.973088
+15:13:31.990 : DEBUG: actuator_mm x=6.523022, y=113.049591, z=180.000000
+15:13:31.990 : DEBUG: cartesian_to_actuator (end)
+15:13:34.091 : N178 G1 Y-2 F3000*37
+15:13:34.101 : DEBUG: cartesian_to_actuator (start)
+15:13:34.105 : DEBUG: cartesian_mm x=-13.000000, y=-2.000000, z=180.000000
+15:13:34.111 : DEBUG: SCARA_pos x=60.000000, y=119.000000
+15:13:34.119 : DEBUG: C2=-0.383299, S2=0.923624, Theta=0.121712, Psi=1.964161
+15:13:34.120 : DEBUG: actuator_mm x=6.973600, y=112.538155, z=180.000000
+15:13:34.120 : DEBUG: cartesian_to_actuator (end)
+15:13:34.712 : N180 G1 Y-1 F3000*33
+15:13:34.722 : DEBUG: cartesian_to_actuator (start)
+15:13:34.727 : DEBUG: cartesian_mm x=-13.000000, y=-1.000000, z=180.000000
+15:13:34.732 : DEBUG: SCARA_pos x=60.000000, y=120.000000
+15:13:34.741 : DEBUG: C2=-0.375000, S2=0.927025, Theta=0.129552, Psi=1.955193
+15:13:34.741 : DEBUG: actuator_mm x=7.422793, y=112.024300, z=180.000000
+15:13:34.741 : DEBUG: cartesian_to_actuator (end)
+15:13:35.199 : N181 G1 Y0 F3000*12
+15:13:35.209 : DEBUG: cartesian_to_actuator (start)
+15:13:35.213 : DEBUG: cartesian_mm x=-13.000000, y=0.000000, z=180.000000
+15:13:35.219 : DEBUG: SCARA_pos x=60.000000, y=121.000000
+15:13:35.228 : DEBUG: C2=-0.366632, S2=0.930366, Theta=0.137369, Psi=1.946183
+15:13:35.228 : DEBUG: actuator_mm x=7.870644, y=111.508041, z=180.000000
+15:13:35.228 : DEBUG: cartesian_to_actuator (end)
+15:13:35.530 : N182 G1 Y1 F3000*14
+15:13:35.540 : DEBUG: cartesian_to_actuator (start)
+15:13:35.545 : DEBUG: cartesian_mm x=-13.000000, y=1.000000, z=180.000000
+15:13:35.551 : DEBUG: SCARA_pos x=60.000000, y=122.000000
+15:13:35.559 : DEBUG: C2=-0.358194, S2=0.933647, Theta=0.145163, Psi=1.937130
+15:13:35.559 : DEBUG: actuator_mm x=8.317211, y=110.989342, z=180.000000
+15:13:35.559 : DEBUG: cartesian_to_actuator (end)
+15:13:35.799 : N183 G1 Y2 F3000*12
+15:13:35.809 : DEBUG: cartesian_to_actuator (start)
+15:13:35.813 : DEBUG: cartesian_mm x=-13.000000, y=2.000000, z=180.000000
+15:13:35.819 : DEBUG: SCARA_pos x=60.000000, y=123.000000
+15:13:35.828 : DEBUG: C2=-0.349688, S2=0.936866, Theta=0.152935, Psi=1.928034
+15:13:35.828 : DEBUG: actuator_mm x=8.762551, y=110.468193, z=180.000000
+15:13:35.828 : DEBUG: cartesian_to_actuator (end)
+15:13:36.042 : N184 G1 Y3 F3000*10
+15:13:36.052 : DEBUG: cartesian_to_actuator (start)
+15:13:36.056 : DEBUG: cartesian_mm x=-13.000000, y=3.000000, z=180.000000
+15:13:36.062 : DEBUG: SCARA_pos x=60.000000, y=124.000000
+15:13:36.071 : DEBUG: C2=-0.341111, S2=0.940023, Theta=0.160688, Psi=1.918895
+15:13:36.071 : DEBUG: actuator_mm x=9.206718, y=109.944580, z=180.000000
+15:13:36.071 : DEBUG: cartesian_to_actuator (end)
+15:13:36.282 : N185 G1 Y4 F3000*12
+15:13:36.292 : DEBUG: cartesian_to_actuator (start)
+15:13:36.296 : DEBUG: cartesian_mm x=-13.000000, y=4.000000, z=180.000000
+15:13:36.302 : DEBUG: SCARA_pos x=60.000000, y=125.000000
+15:13:36.311 : DEBUG: C2=-0.332465, S2=0.943115, Theta=0.168420, Psi=1.909713
+15:13:36.311 : DEBUG: actuator_mm x=9.649755, y=109.418472, z=180.000000
+15:13:36.311 : DEBUG: cartesian_to_actuator (end)
+15:13:36.505 : N186 G1 Y5 F3000*14
+15:13:36.515 : DEBUG: cartesian_to_actuator (start)
+15:13:36.520 : DEBUG: cartesian_mm x=-13.000000, y=5.000000, z=180.000000
+15:13:36.526 : DEBUG: SCARA_pos x=60.000000, y=126.000000
+15:13:36.534 : DEBUG: C2=-0.323750, S2=0.946143, Theta=0.176134, Psi=1.900487
+15:13:36.534 : DEBUG: actuator_mm x=10.091720, y=108.889854, z=180.000000
+15:13:36.534 : DEBUG: cartesian_to_actuator (end)
+15:13:36.718 : N187 G1 Y6 F3000*12
+15:13:36.729 : DEBUG: cartesian_to_actuator (start)
+15:13:36.733 : DEBUG: cartesian_mm x=-13.000000, y=6.000000, z=180.000000
+15:13:36.738 : DEBUG: SCARA_pos x=60.000000, y=127.000000
+15:13:36.747 : DEBUG: C2=-0.314965, S2=0.949103, Theta=0.183830, Psi=1.891216
+15:13:36.747 : DEBUG: actuator_mm x=10.532674, y=108.358711, z=180.000000
+15:13:36.747 : DEBUG: cartesian_to_actuator (end)
+15:13:36.933 : N188 G1 Y7 F3000*2
+15:13:36.943 : DEBUG: cartesian_to_actuator (start)
+15:13:36.948 : DEBUG: cartesian_mm x=-13.000000, y=7.000000, z=180.000000
+15:13:36.953 : DEBUG: SCARA_pos x=60.000000, y=128.000000
+15:13:36.962 : DEBUG: C2=-0.306111, S2=0.951996, Theta=0.191509, Psi=1.881902
+15:13:36.962 : DEBUG: actuator_mm x=10.972654, y=107.825012, z=180.000000
+15:13:36.962 : DEBUG: cartesian_to_actuator (end)
+15:13:37.173 : N189 G1 Y8 F3000*12
+15:13:37.183 : DEBUG: cartesian_to_actuator (start)
+15:13:37.187 : DEBUG: cartesian_mm x=-13.000000, y=8.000000, z=180.000000
+15:13:37.193 : DEBUG: SCARA_pos x=60.000000, y=129.000000
+15:13:37.201 : DEBUG: C2=-0.297188, S2=0.954819, Theta=0.199172, Psi=1.872542
+15:13:37.202 : DEBUG: actuator_mm x=11.411716, y=107.288750, z=180.000000
+15:13:37.202 : DEBUG: cartesian_to_actuator (end)
+15:13:37.432 : N190 G1 Y9 F3000*5
+15:13:37.442 : DEBUG: cartesian_to_actuator (start)
+15:13:37.447 : DEBUG: cartesian_mm x=-13.000000, y=9.000000, z=180.000000
+15:13:37.452 : DEBUG: SCARA_pos x=60.000000, y=130.000000
+15:13:37.460 : DEBUG: C2=-0.288194, S2=0.957572, Theta=0.206820, Psi=1.863137
+15:13:37.461 : DEBUG: actuator_mm x=11.849915, y=106.749878, z=180.000000
+15:13:37.461 : DEBUG: cartesian_to_actuator (end)
+15:13:37.707 : N191 G1 Y10 F3000*60
+15:13:37.718 : DEBUG: cartesian_to_actuator (start)
+15:13:37.722 : DEBUG: cartesian_mm x=-13.000000, y=10.000000, z=180.000000
+15:13:37.728 : DEBUG: SCARA_pos x=60.000000, y=131.000000
+15:13:37.736 : DEBUG: C2=-0.279132, S2=0.960253, Theta=0.214454, Psi=1.853686
+15:13:37.737 : DEBUG: actuator_mm x=12.287294, y=106.208389, z=180.000000
+15:13:37.737 : DEBUG: cartesian_to_actuator (end)
+15:13:37.991 : N193 G1 Y11 F3000*63
+15:13:38.002 : DEBUG: cartesian_to_actuator (start)
+15:13:38.006 : DEBUG: cartesian_mm x=-13.000000, y=11.000000, z=180.000000
+15:13:38.011 : DEBUG: SCARA_pos x=60.000000, y=132.000000
+15:13:38.020 : DEBUG: C2=-0.270000, S2=0.962860, Theta=0.222074, Psi=1.844189
+15:13:38.020 : DEBUG: actuator_mm x=12.723911, y=105.664253, z=180.000000
+15:13:38.020 : DEBUG: cartesian_to_actuator (end)
+15:13:38.295 : N194 G1 Y12 F3000*59
+15:13:38.305 : DEBUG: cartesian_to_actuator (start)
+15:13:38.310 : DEBUG: cartesian_mm x=-13.000000, y=12.000000, z=180.000000
+15:13:38.316 : DEBUG: SCARA_pos x=60.000000, y=133.000000
+15:13:38.324 : DEBUG: C2=-0.260799, S2=0.965393, Theta=0.229682, Psi=1.834646
+15:13:38.324 : DEBUG: actuator_mm x=13.159812, y=105.117447, z=180.000000
+15:13:38.324 : DEBUG: cartesian_to_actuator (end)
+15:13:38.581 : N195 G1 Y13 F3000*59
+15:13:38.591 : DEBUG: cartesian_to_actuator (start)
+15:13:38.596 : DEBUG: cartesian_mm x=-13.000000, y=13.000000, z=180.000000
+15:13:38.601 : DEBUG: SCARA_pos x=60.000000, y=134.000000
+15:13:38.610 : DEBUG: C2=-0.251528, S2=0.967850, Theta=0.237278, Psi=1.825055
+15:13:38.610 : DEBUG: actuator_mm x=13.595047, y=104.567932, z=180.000000
+15:13:38.610 : DEBUG: cartesian_to_actuator (end)
+15:13:54.366 : N201 M665 X73*89
+15:13:57.116 : N203 M360*39
+15:13:57.120 : set trim to X:0.000000 Y:0.000000 Z:0.000000
+15:13:57.130 : DEBUG: cartesian_to_actuator (start)
+15:13:57.136 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:57.136 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:13:57.141 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:13:57.147 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:13:57.153 : DEBUG: cartesian_to_actuator (end)
+15:13:57.153 : DEBUG: cartesian_to_actuator (start)
+15:13:57.157 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:57.162 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:13:57.171 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:13:57.174 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:13:57.179 : DEBUG: cartesian_to_actuator (end)
+15:13:57.180 : DEBUG: cartesian_to_actuator (start)
+15:13:57.184 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:13:57.194 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:13:57.198 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:13:57.198 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:13:57.198 : DEBUG: cartesian_to_actuator (end)
+15:14:06.597 : DEBUG: actuator_to_cartesian (start)
+15:14:06.604 : DEBUG: actuator_mm x = 83.144325, y = 2.025001
+15:14:06.604 : DEBUG: x_sin =  119.141998
+15:14:06.608 : DEBUG: x_cos =  14.324244
+15:14:06.608 : DEBUG: y_sin =  119.573753
+15:14:06.615 : DEBUG: y_cos =  10.105348
+15:14:06.615 : DEBUG: cartesian_mm[X_AXIS] = 97.429596
+15:14:06.619 : DEBUG: cartesian_mm[Y_AXIS] =  117.715759
+15:14:06.619 : DEBUG: actuator_to_cartesian (end)
+15:14:06.627 : DEBUG: cartesian_to_actuator (start)
+15:14:06.633 : DEBUG: cartesian_mm x=97.429596, y=117.715759, z=0.001000
+15:14:06.638 : DEBUG: SCARA_pos x=24.429596, y=238.715759
+15:14:06.645 : DEBUG: C2=0.900000, S2=0.435890, Theta=1.243300, Psi=0.451027
+15:14:06.645 : DEBUG: actuator_mm x=71.235855, y=25.841936, z=0.001000
+15:14:06.650 : DEBUG: cartesian_to_actuator (end)
+15:14:06.654 : DEBUG: cartesian_to_actuator (start)
+15:14:06.660 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:14:06.660 : DEBUG: SCARA_pos x=167.000000, y=151.000000
+15:14:06.665 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:14:06.671 : DEBUG: actuator_mm x=21.854780, y=40.529675, z=180.000000
+15:14:06.678 : DEBUG: cartesian_to_actuator (end)
+15:14:06.678 : DEBUG: actuator_to_cartesian (start)
+15:14:06.683 : DEBUG: actuator_mm x = 21.854780, y = 40.529675
+15:14:06.683 : DEBUG: x_sin =  44.670650
+15:14:06.689 : DEBUG: x_cos =  111.375648
+15:14:06.689 : DEBUG: y_sin =  106.329338
+15:14:06.696 : DEBUG: y_cos =  55.624378
+15:14:06.696 : DEBUG: cartesian_mm[X_AXIS] = 240.000031
+15:14:06.699 : DEBUG: cartesian_mm[Y_AXIS] =  29.999985
+15:14:06.705 : DEBUG: actuator_to_cartesian (end)
+15:14:06.705 : DEBUG: cartesian_to_actuator (start)
+15:14:06.709 : DEBUG: cartesian_mm x=240.000031, y=29.999985, z=180.000000
+15:14:06.715 : DEBUG: SCARA_pos x=167.000031, y=150.999985
+15:14:06.723 : DEBUG: C2=0.760070, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:14:06.730 : DEBUG: actuator_mm x=21.854784, y=40.529655, z=180.000000
+15:14:06.730 : DEBUG: cartesian_to_actuator (end)
+15:14:06.735 : DEBUG: actuator_to_cartesian (start)
+15:14:06.740 : DEBUG: actuator_mm x = 0.000000, y = 120.000000
+15:14:06.740 : DEBUG: x_sin =  0.000000
+15:14:06.740 : DEBUG: x_cos =  120.000000
+15:14:06.747 : DEBUG: y_sin =  103.923042
+15:14:06.747 : DEBUG: y_cos =  -60.000008
+15:14:06.751 : DEBUG: cartesian_mm[X_AXIS] = 133.000000
+15:14:06.759 : DEBUG: cartesian_mm[Y_AXIS] =  -17.076958
+15:14:06.759 : DEBUG: actuator_to_cartesian (end)
+15:14:06.764 : DEBUG: move: G0 X133.000 Y-17.077 Z180.000 F3600.0
+15:14:06.769 : DEBUG: cartesian_to_actuator (start)
+15:14:06.775 : DEBUG: cartesian_mm x=133.000000, y=-17.077000, z=180.000000
+15:14:06.775 : DEBUG: SCARA_pos x=60.000000, y=103.923004
+15:14:06.780 : DEBUG: C2=-0.500000, S2=0.866025, Theta=-0.000000, Psi=2.094395
+15:14:06.783 : DEBUG: actuator_mm x=-0.000020, y=120.000008, z=180.000000
+15:14:06.783 : DEBUG: cartesian_to_actuator (end)
+15:14:20.892 : N212 G1 Y1 F3000*4
+15:14:20.902 : DEBUG: cartesian_to_actuator (start)
+15:14:20.906 : DEBUG: cartesian_mm x=133.000000, y=1.000000, z=180.000000
+15:14:20.912 : DEBUG: SCARA_pos x=60.000000, y=122.000000
+15:14:20.920 : DEBUG: C2=-0.358194, S2=0.933647, Theta=0.145163, Psi=1.937130
+15:14:20.921 : DEBUG: actuator_mm x=8.317211, y=110.989342, z=180.000000
+15:14:20.921 : DEBUG: cartesian_to_actuator (end)
+15:14:22.756 : N213 G1 Y2 F3000*6
+15:14:22.766 : DEBUG: cartesian_to_actuator (start)
+15:14:22.770 : DEBUG: cartesian_mm x=133.000000, y=2.000000, z=180.000000
+15:14:22.776 : DEBUG: SCARA_pos x=60.000000, y=123.000000
+15:14:22.784 : DEBUG: C2=-0.349688, S2=0.936866, Theta=0.152935, Psi=1.928034
+15:14:22.785 : DEBUG: actuator_mm x=8.762551, y=110.468193, z=180.000000
+15:14:22.785 : DEBUG: cartesian_to_actuator (end)
+15:14:51.976 : N224 G1 Y3 F3000*3
+15:14:51.985 : DEBUG: cartesian_to_actuator (start)
+15:14:51.990 : DEBUG: cartesian_mm x=133.000000, y=3.000000, z=180.000000
+15:14:51.995 : DEBUG: SCARA_pos x=60.000000, y=124.000000
+15:14:52.004 : DEBUG: C2=-0.341111, S2=0.940023, Theta=0.160688, Psi=1.918895
+15:14:52.004 : DEBUG: actuator_mm x=9.206718, y=109.944580, z=180.000000
+15:14:52.004 : DEBUG: cartesian_to_actuator (end)
+15:14:55.121 : N226 G1 Y2 F3000*0
+15:14:55.131 : DEBUG: cartesian_to_actuator (start)
+15:14:55.136 : DEBUG: cartesian_mm x=133.000000, y=2.000000, z=180.000000
+15:14:55.141 : DEBUG: SCARA_pos x=60.000000, y=123.000000
+15:14:55.150 : DEBUG: C2=-0.349688, S2=0.936866, Theta=0.152935, Psi=1.928034
+15:14:55.150 : DEBUG: actuator_mm x=8.762551, y=110.468193, z=180.000000
+15:14:55.150 : DEBUG: cartesian_to_actuator (end)
+15:14:55.616 : N227 G1 Y1 F3000*2
+15:14:55.626 : DEBUG: cartesian_to_actuator (start)
+15:14:55.630 : DEBUG: cartesian_mm x=133.000000, y=1.000000, z=180.000000
+15:14:55.636 : DEBUG: SCARA_pos x=60.000000, y=122.000000
+15:14:55.645 : DEBUG: C2=-0.358194, S2=0.933647, Theta=0.145163, Psi=1.937130
+15:14:55.645 : DEBUG: actuator_mm x=8.317211, y=110.989342, z=180.000000
+15:14:55.645 : DEBUG: cartesian_to_actuator (end)
+15:14:57.279 : N228 G1 Y0 F3000*12
+15:14:57.288 : DEBUG: cartesian_to_actuator (start)
+15:14:57.293 : DEBUG: cartesian_mm x=133.000000, y=0.000000, z=180.000000
+15:14:57.299 : DEBUG: SCARA_pos x=60.000000, y=121.000000
+15:14:57.307 : DEBUG: C2=-0.366632, S2=0.930366, Theta=0.137369, Psi=1.946183
+15:14:57.307 : DEBUG: actuator_mm x=7.870644, y=111.508041, z=180.000000
+15:14:57.307 : DEBUG: cartesian_to_actuator (end)
+15:14:57.945 : N230 G1 Y-1 F3000*41
+15:14:57.955 : DEBUG: cartesian_to_actuator (start)
+15:14:57.959 : DEBUG: cartesian_mm x=133.000000, y=-1.000000, z=180.000000
+15:14:57.965 : DEBUG: SCARA_pos x=60.000000, y=120.000000
+15:14:57.973 : DEBUG: C2=-0.375000, S2=0.927025, Theta=0.129552, Psi=1.955193
+15:14:57.973 : DEBUG: actuator_mm x=7.422793, y=112.024300, z=180.000000
+15:14:57.974 : DEBUG: cartesian_to_actuator (end)
+15:15:11.370 : N235 G1 Y-0.9 F3000*58
+15:15:11.380 : DEBUG: cartesian_to_actuator (start)
+15:15:11.384 : DEBUG: cartesian_mm x=133.000000, y=-0.900000, z=180.000000
+15:15:11.390 : DEBUG: SCARA_pos x=60.000000, y=120.099998
+15:15:11.399 : DEBUG: C2=-0.374166, S2=0.927362, Theta=0.130335, Psi=1.954294
+15:15:11.399 : DEBUG: actuator_mm x=7.467635, y=111.972786, z=180.000000
+15:15:11.399 : DEBUG: cartesian_to_actuator (end)
+15:15:11.968 : N236 G1 Y-0.8 F3000*56
+15:15:11.978 : DEBUG: cartesian_to_actuator (start)
+15:15:11.982 : DEBUG: cartesian_mm x=133.000000, y=-0.800000, z=180.000000
+15:15:11.988 : DEBUG: SCARA_pos x=60.000000, y=120.199997
+15:15:11.997 : DEBUG: C2=-0.373332, S2=0.927698, Theta=0.131117, Psi=1.953394
+15:15:11.997 : DEBUG: actuator_mm x=7.512465, y=111.921249, z=180.000000
+15:15:11.997 : DEBUG: cartesian_to_actuator (end)
+15:15:26.109 : N242 M360 P0*98
+15:15:26.119 : DEBUG: cartesian_to_actuator (start)
+15:15:26.123 : DEBUG: cartesian_mm x=133.000000, y=-0.800000, z=180.000000
+15:15:26.134 : DEBUG: SCARA_pos x=60.000000, y=120.199997
+15:15:26.137 : DEBUG: C2=-0.373332, S2=0.927698, Theta=0.131117, Psi=1.953394
+15:15:26.137 : DEBUG: actuator_mm x=7.512465, y=111.921249, z=180.000000
+15:15:26.137 : DEBUG: cartesian_to_actuator (end)
+15:15:26.137 : set trim to X:7.512465 Y:0.000000 Z:0.000000
+15:15:34.525 : N246 M361*39
+15:15:34.535 : Target: T 90.000000 P 130.000000
+15:15:34.539 : DEBUG: cartesian_to_actuator (start)
+15:15:34.545 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:15:34.545 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:15:34.550 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:15:34.556 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:15:34.562 : DEBUG: cartesian_to_actuator (end)
+15:15:34.562 : DEBUG: cartesian_to_actuator (start)
+15:15:34.566 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:15:34.572 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:15:34.580 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:15:34.583 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:15:34.583 : DEBUG: cartesian_to_actuator (end)
+15:15:34.593 : DEBUG: cartesian_to_actuator (start)
+15:15:34.598 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:15:34.603 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:15:34.607 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:15:34.607 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:15:34.607 : DEBUG: cartesian_to_actuator (end)
+15:15:43.265 : DEBUG: actuator_to_cartesian (start)
+15:15:43.272 : DEBUG: actuator_mm x = 98.243187, y = 9.393752
+15:15:43.272 : DEBUG: x_sin =  118.760208
+15:15:43.276 : DEBUG: x_cos =  -17.205006
+15:15:43.276 : DEBUG: y_sin =  114.359467
+15:15:43.283 : DEBUG: y_cos =  -36.358135
+15:15:43.283 : DEBUG: cartesian_mm[X_AXIS] = 19.436859
+15:15:43.286 : DEBUG: cartesian_mm[Y_AXIS] =  112.119675
+15:15:43.286 : DEBUG: actuator_to_cartesian (end)
+15:15:43.295 : DEBUG: cartesian_to_actuator (start)
+15:15:43.302 : DEBUG: cartesian_mm x=19.436859, y=112.119675, z=-0.000333
+15:15:43.307 : DEBUG: SCARA_pos x=-53.563141, y=233.119675
+15:15:43.310 : DEBUG: C2=0.900000, S2=0.435890, Theta=1.571130, Psi=0.451027
+15:15:43.319 : DEBUG: actuator_mm x=90.019096, y=25.841936, z=-0.000333
+15:15:43.319 : DEBUG: cartesian_to_actuator (end)
+15:15:43.323 : DEBUG: cartesian_to_actuator (start)
+15:15:43.329 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:15:43.329 : DEBUG: SCARA_pos x=167.000000, y=151.000000
+15:15:43.334 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:15:43.340 : DEBUG: actuator_mm x=21.854780, y=40.529675, z=180.000000
+15:15:43.347 : DEBUG: cartesian_to_actuator (end)
+15:15:43.347 : DEBUG: actuator_to_cartesian (start)
+15:15:43.352 : DEBUG: actuator_mm x = 14.342316, y = 40.529675
+15:15:43.358 : DEBUG: x_sin =  29.725756
+15:15:43.358 : DEBUG: x_cos =  116.259964
+15:15:43.358 : DEBUG: y_sin =  98.144234
+15:15:43.364 : DEBUG: y_cos =  69.048607
+15:15:43.364 : DEBUG: cartesian_mm[X_AXIS] = 258.308563
+15:15:43.368 : DEBUG: cartesian_mm[Y_AXIS] =  6.869987
+15:15:43.373 : DEBUG: actuator_to_cartesian (end)
+15:15:43.374 : DEBUG: cartesian_to_actuator (start)
+15:15:43.377 : DEBUG: cartesian_mm x=258.308563, y=6.869987, z=180.000000
+15:15:43.383 : DEBUG: SCARA_pos x=185.308563, y=127.869987
+15:15:43.391 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.250321, Psi=0.707377
+15:15:43.395 : DEBUG: actuator_mm x=14.342311, y=40.529694, z=180.000000
+15:15:43.395 : DEBUG: cartesian_to_actuator (end)
+15:15:43.404 : DEBUG: actuator_to_cartesian (start)
+15:15:43.409 : DEBUG: actuator_mm x = 90.000000, y = 130.000000
+15:15:43.409 : DEBUG: x_sin =  120.000000
+15:15:43.412 : DEBUG: x_cos =  -0.000005
+15:15:43.413 : DEBUG: y_sin =  -77.134529
+15:15:43.413 : DEBUG: y_cos =  -91.925316
+15:15:43.420 : DEBUG: cartesian_mm[X_AXIS] = -18.925323
+15:15:43.428 : DEBUG: cartesian_mm[Y_AXIS] =  -78.134529
+15:15:43.428 : DEBUG: actuator_to_cartesian (end)
+15:15:43.434 : DEBUG: move: G0 X-18.925 Y-78.135 Z180.000 F3600.0
+15:15:43.438 : DEBUG: cartesian_to_actuator (start)
+15:15:43.444 : DEBUG: cartesian_mm x=-18.924999, y=-78.135002, z=180.000000
+15:15:43.444 : DEBUG: SCARA_pos x=-91.925003, y=42.864998
+15:15:43.449 : DEBUG: C2=-0.642791, S2=0.766041, Theta=1.570797, Psi=2.268933
+15:15:43.452 : DEBUG: actuator_mm x=90.000031, y=130.000275, z=180.000000
+15:15:43.454 : DEBUG: cartesian_to_actuator (end)
+15:16:21.404 : N262 M364*36
+15:16:21.408 : set trim to X:7.512465 Y:0.000000 Z:0.000000
+15:16:21.418 : DEBUG: cartesian_to_actuator (start)
+15:16:21.424 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:16:21.424 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:16:21.429 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:16:21.435 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:16:21.441 : DEBUG: cartesian_to_actuator (end)
+15:16:21.441 : DEBUG: cartesian_to_actuator (start)
+15:16:21.445 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:16:21.450 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:16:21.459 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:16:21.462 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:16:21.467 : DEBUG: cartesian_to_actuator (end)
+15:16:21.467 : DEBUG: cartesian_to_actuator (start)
+15:16:21.472 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:16:21.482 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:16:21.486 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:16:21.486 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:16:21.486 : DEBUG: cartesian_to_actuator (end)
+15:16:31.962 : DEBUG: actuator_to_cartesian (start)
+15:16:31.969 : DEBUG: actuator_mm x = 79.895462, y = -8.685002
+15:16:31.969 : DEBUG: x_sin =  118.138718
+15:16:31.973 : DEBUG: x_cos =  21.053350
+15:16:31.973 : DEBUG: y_sin =  113.604973
+15:16:31.979 : DEBUG: y_cos =  38.651146
+15:16:31.979 : DEBUG: cartesian_mm[X_AXIS] = 132.704498
+15:16:31.983 : DEBUG: cartesian_mm[Y_AXIS] =  110.743683
+15:16:31.983 : DEBUG: actuator_to_cartesian (end)
+15:16:31.993 : DEBUG: cartesian_to_actuator (start)
+15:16:31.998 : DEBUG: cartesian_mm x=132.704498, y=110.743683, z=-0.000333
+15:16:32.003 : DEBUG: SCARA_pos x=59.704498, y=231.743683
+15:16:32.007 : DEBUG: C2=0.900000, S2=0.435890, Theta=1.093135, Psi=0.451027
+15:16:32.015 : DEBUG: actuator_mm x=62.631992, y=25.841936, z=-0.000333
+15:16:32.015 : DEBUG: cartesian_to_actuator (end)
+15:16:32.019 : DEBUG: cartesian_to_actuator (start)
+15:16:32.025 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:16:32.026 : DEBUG: SCARA_pos x=167.000000, y=151.000000
+15:16:32.031 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:16:32.037 : DEBUG: actuator_mm x=21.854780, y=40.529675, z=180.000000
+15:16:32.044 : DEBUG: cartesian_to_actuator (end)
+15:16:32.044 : DEBUG: actuator_to_cartesian (start)
+15:16:32.048 : DEBUG: actuator_mm x = 14.342316, y = 40.529675
+15:16:32.054 : DEBUG: x_sin =  29.725756
+15:16:32.054 : DEBUG: x_cos =  116.259964
+15:16:32.054 : DEBUG: y_sin =  98.144234
+15:16:32.061 : DEBUG: y_cos =  69.048607
+15:16:32.061 : DEBUG: cartesian_mm[X_AXIS] = 258.308563
+15:16:32.065 : DEBUG: cartesian_mm[Y_AXIS] =  6.869987
+15:16:32.070 : DEBUG: actuator_to_cartesian (end)
+15:16:32.070 : DEBUG: cartesian_to_actuator (start)
+15:16:32.074 : DEBUG: cartesian_mm x=258.308563, y=6.869987, z=180.000000
+15:16:32.080 : DEBUG: SCARA_pos x=185.308563, y=127.869987
+15:16:32.088 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.250321, Psi=0.707377
+15:16:32.092 : DEBUG: actuator_mm x=14.342311, y=40.529694, z=180.000000
+15:16:32.092 : DEBUG: cartesian_to_actuator (end)
+15:16:32.101 : DEBUG: actuator_to_cartesian (start)
+15:16:32.105 : DEBUG: actuator_mm x = 45.000000, y = 135.000000
+15:16:32.105 : DEBUG: x_sin =  84.852821
+15:16:32.105 : DEBUG: x_cos =  84.852814
+15:16:32.109 : DEBUG: y_sin =  -0.000010
+15:16:32.109 : DEBUG: y_cos =  -120.000000
+15:16:32.116 : DEBUG: cartesian_mm[X_AXIS] = 37.852814
+15:16:32.124 : DEBUG: cartesian_mm[Y_AXIS] =  -36.147186
+15:16:32.124 : DEBUG: actuator_to_cartesian (end)
+15:16:32.130 : DEBUG: move: G0 X37.853 Y-36.147 Z180.000 F3600.0
+15:16:32.134 : DEBUG: cartesian_to_actuator (start)
+15:16:32.140 : DEBUG: cartesian_mm x=37.853001, y=-36.146999, z=180.000000
+15:16:32.140 : DEBUG: SCARA_pos x=-35.146999, y=84.852997
+15:16:32.145 : DEBUG: C2=-0.707106, S2=0.707107, Theta=0.785396, Psi=2.356194
+15:16:32.149 : DEBUG: actuator_mm x=44.999870, y=134.999939, z=180.000000
+15:16:32.149 : DEBUG: cartesian_to_actuator (end)
+15:16:47.346 : N271 G1 Y0.1 F3000*31
+15:16:47.356 : DEBUG: cartesian_to_actuator (start)
+15:16:47.360 : DEBUG: cartesian_mm x=37.853001, y=0.100000, z=180.000000
+15:16:47.366 : DEBUG: SCARA_pos x=-35.146999, y=121.099998
+15:16:47.375 : DEBUG: C2=-0.447899, S2=0.894084, Theta=0.835662, Psi=2.035210
+15:16:47.375 : DEBUG: actuator_mm x=47.879902, y=116.608932, z=180.000000
+15:16:47.375 : DEBUG: cartesian_to_actuator (end)
+15:16:51.194 : N274 G1 Y-0.9 F3000*63
+15:16:51.203 : DEBUG: cartesian_to_actuator (start)
+15:16:51.208 : DEBUG: cartesian_mm x=37.853001, y=-0.900000, z=180.000000
+15:16:51.214 : DEBUG: SCARA_pos x=-35.146999, y=120.099998
+15:16:51.222 : DEBUG: C2=-0.456274, S2=0.889840, Theta=0.833195, Psi=2.044599
+15:16:51.222 : DEBUG: actuator_mm x=47.738541, y=117.146889, z=180.000000
+15:16:51.222 : DEBUG: cartesian_to_actuator (end)
+15:16:51.908 : N275 G1 Y-1.9 F3000*63
+15:16:51.918 : DEBUG: cartesian_to_actuator (start)
+15:16:51.922 : DEBUG: cartesian_mm x=37.853001, y=-1.900000, z=180.000000
+15:16:51.928 : DEBUG: SCARA_pos x=-35.146999, y=119.099998
+15:16:51.937 : DEBUG: C2=-0.464579, S2=0.885532, Theta=0.830778, Psi=2.053956
+15:16:51.937 : DEBUG: actuator_mm x=47.600090, y=117.682976, z=180.000000
+15:16:51.937 : DEBUG: cartesian_to_actuator (end)
+15:16:52.369 : N276 G1 Y-2.9 F3000*63
+15:16:52.379 : DEBUG: cartesian_to_actuator (start)
+15:16:52.383 : DEBUG: cartesian_mm x=37.853001, y=-2.900000, z=180.000000
+15:16:52.389 : DEBUG: SCARA_pos x=-35.146999, y=118.099998
+15:16:52.398 : DEBUG: C2=-0.472815, S2=0.881162, Theta=0.828414, Psi=2.063279
+15:16:52.398 : DEBUG: actuator_mm x=47.464600, y=118.217178, z=180.000000
+15:16:52.398 : DEBUG: cartesian_to_actuator (end)
+15:16:52.585 : N277 G1 Y-3.9 F3000*63
+15:16:52.595 : DEBUG: cartesian_to_actuator (start)
+15:16:52.600 : DEBUG: cartesian_mm x=37.853001, y=-3.900000, z=180.000000
+15:16:52.605 : DEBUG: SCARA_pos x=-35.146999, y=117.099998
+15:16:52.614 : DEBUG: C2=-0.480982, S2=0.876731, Theta=0.826101, Psi=2.072571
+15:16:52.614 : DEBUG: actuator_mm x=47.332096, y=118.749550, z=180.000000
+15:16:52.614 : DEBUG: cartesian_to_actuator (end)
+15:16:52.781 : N278 G1 Y-4.9 F3000*55
+15:16:52.791 : DEBUG: cartesian_to_actuator (start)
+15:16:52.796 : DEBUG: cartesian_mm x=37.853001, y=-4.900000, z=180.000000
+15:16:52.801 : DEBUG: SCARA_pos x=-35.146999, y=116.099998
+15:16:52.810 : DEBUG: C2=-0.489079, S2=0.872239, Theta=0.823841, Psi=2.081830
+15:16:52.810 : DEBUG: actuator_mm x=47.202621, y=119.280067, z=180.000000
+15:16:52.810 : DEBUG: cartesian_to_actuator (end)
+15:16:52.988 : N279 G1 Y-5.9 F3000*55
+15:16:52.998 : DEBUG: cartesian_to_actuator (start)
+15:16:53.003 : DEBUG: cartesian_mm x=37.853001, y=-5.900000, z=180.000000
+15:16:53.009 : DEBUG: SCARA_pos x=-35.146999, y=115.099998
+15:16:53.017 : DEBUG: C2=-0.497107, S2=0.867689, Theta=0.821635, Psi=2.091058
+15:16:53.017 : DEBUG: actuator_mm x=47.076210, y=119.808777, z=180.000000
+15:16:53.017 : DEBUG: cartesian_to_actuator (end)
+15:16:53.175 : N280 G1 Y-6.9 F3000*50
+15:16:53.185 : DEBUG: cartesian_to_actuator (start)
+15:16:53.189 : DEBUG: cartesian_mm x=37.853001, y=-6.900000, z=180.000000
+15:16:53.195 : DEBUG: SCARA_pos x=-35.146999, y=114.099998
+15:16:53.204 : DEBUG: C2=-0.505065, S2=0.863081, Theta=0.819483, Psi=2.100254
+15:16:53.204 : DEBUG: actuator_mm x=46.952911, y=120.335670, z=180.000000
+15:16:53.204 : DEBUG: cartesian_to_actuator (end)
+15:16:53.379 : N281 G1 Y-7.9 F3000*50
+15:16:53.389 : DEBUG: cartesian_to_actuator (start)
+15:16:53.393 : DEBUG: cartesian_mm x=37.853001, y=-7.900000, z=180.000000
+15:16:53.399 : DEBUG: SCARA_pos x=-35.146999, y=113.099998
+15:16:53.408 : DEBUG: C2=-0.512954, S2=0.858416, Theta=0.817386, Psi=2.109419
+15:16:53.408 : DEBUG: actuator_mm x=46.832775, y=120.860794, z=180.000000
+15:16:53.408 : DEBUG: cartesian_to_actuator (end)
+15:16:53.796 : N283 G1 Y-8.9 F3000*63
+15:16:53.806 : DEBUG: cartesian_to_actuator (start)
+15:16:53.811 : DEBUG: cartesian_mm x=37.853001, y=-8.900000, z=180.000000
+15:16:53.817 : DEBUG: SCARA_pos x=-35.146999, y=112.099998
+15:16:53.825 : DEBUG: C2=-0.520774, S2=0.853695, Theta=0.815345, Psi=2.118553
+15:16:53.825 : DEBUG: actuator_mm x=46.715820, y=121.384148, z=180.000000
+15:16:53.825 : DEBUG: cartesian_to_actuator (end)
+15:16:53.996 : N284 G1 Y-9.9 F3000*57
+15:16:54.006 : DEBUG: cartesian_to_actuator (start)
+15:16:54.011 : DEBUG: cartesian_mm x=37.853001, y=-9.900000, z=180.000000
+15:16:54.017 : DEBUG: SCARA_pos x=-35.146999, y=111.099998
+15:16:54.025 : DEBUG: C2=-0.528524, S2=0.848919, Theta=0.813361, Psi=2.127657
+15:16:54.025 : DEBUG: actuator_mm x=46.602131, y=121.905739, z=180.000000
+15:16:54.025 : DEBUG: cartesian_to_actuator (end)
+15:16:54.217 : N285 G1 Y-10.9 F3000*0
+15:16:54.227 : DEBUG: cartesian_to_actuator (start)
+15:16:54.232 : DEBUG: cartesian_mm x=37.853001, y=-10.900000, z=180.000000
+15:16:54.238 : DEBUG: SCARA_pos x=-35.146999, y=110.099998
+15:16:54.246 : DEBUG: C2=-0.536204, S2=0.844088, Theta=0.811434, Psi=2.136730
+15:16:54.246 : DEBUG: actuator_mm x=46.491734, y=122.425598, z=180.000000
+15:16:54.246 : DEBUG: cartesian_to_actuator (end)
+15:16:55.266 : N286 G1 Y-60.9 F3000*4
+15:16:55.276 : DEBUG: cartesian_to_actuator (start)
+15:16:55.281 : DEBUG: cartesian_mm x=37.853001, y=-60.900002, z=180.000000
+15:16:55.287 : DEBUG: SCARA_pos x=-35.146999, y=60.099998
+15:16:55.295 : DEBUG: C2=-0.831690, S2=0.555240, Theta=0.823500, Psi=2.552941
+15:16:55.295 : DEBUG: actuator_mm x=47.183083, y=146.272751, z=180.000000
+15:16:55.295 : DEBUG: cartesian_to_actuator (end)
+15:16:58.284 : N288 G1 Y-110.9 F3000*60
+15:16:58.295 : DEBUG: cartesian_to_actuator (start)
+15:16:58.299 : DEBUG: cartesian_mm x=37.853001, y=-110.900002, z=180.000000
+15:16:58.305 : DEBUG: SCARA_pos x=-35.146999, y=10.099998
+15:16:58.313 : DEBUG: C2=-0.950000, S2=0.312250, Theta=1.449752, Psi=2.824032
+15:16:58.313 : DEBUG: actuator_mm x=83.064667, y=161.805130, z=180.000000
+15:16:58.314 : DEBUG: cartesian_to_actuator (end)
+15:17:08.548 : N292 M360*47
+15:17:08.553 : set trim to X:0.000000 Y:0.000000 Z:0.000000
+15:17:08.562 : DEBUG: cartesian_to_actuator (start)
+15:17:08.568 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:17:08.568 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:17:08.573 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:17:08.579 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:17:08.585 : DEBUG: cartesian_to_actuator (end)
+15:17:08.585 : DEBUG: cartesian_to_actuator (start)
+15:17:08.589 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:17:08.595 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:17:08.603 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:17:08.606 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:17:08.611 : DEBUG: cartesian_to_actuator (end)
+15:17:08.611 : DEBUG: cartesian_to_actuator (start)
+15:17:08.616 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:17:08.626 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:17:08.629 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:17:08.630 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:17:08.630 : DEBUG: cartesian_to_actuator (end)
+15:17:22.301 : DEBUG: actuator_to_cartesian (start)
+15:17:22.308 : DEBUG: actuator_mm x = 79.769325, y = -40.481262
+15:17:22.308 : DEBUG: x_sin =  118.092087
+15:17:22.312 : DEBUG: x_cos =  21.313389
+15:17:22.312 : DEBUG: y_sin =  75.986359
+15:17:22.319 : DEBUG: y_cos =  92.876656
+15:17:22.319 : DEBUG: cartesian_mm[X_AXIS] = 187.190048
+15:17:22.322 : DEBUG: cartesian_mm[Y_AXIS] =  73.078445
+15:17:22.323 : DEBUG: actuator_to_cartesian (end)
+15:17:22.332 : DEBUG: cartesian_to_actuator (start)
+15:17:22.338 : DEBUG: cartesian_mm x=187.190048, y=73.078445, z=0.001000
+15:17:22.342 : DEBUG: SCARA_pos x=114.190048, y=194.078445
+15:17:22.349 : DEBUG: C2=0.760618, S2=0.649199, Theta=0.685706, Psi=0.706531
+15:17:22.349 : DEBUG: actuator_mm x=39.288067, y=40.481258, z=0.001000
+15:17:22.354 : DEBUG: cartesian_to_actuator (end)
+15:17:22.359 : DEBUG: cartesian_to_actuator (start)
+15:17:22.365 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:17:22.365 : DEBUG: SCARA_pos x=167.000000, y=151.000000
+15:17:22.370 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:17:22.376 : DEBUG: actuator_mm x=21.854780, y=40.529675, z=180.000000
+15:17:22.383 : DEBUG: cartesian_to_actuator (end)
+15:17:22.383 : DEBUG: actuator_to_cartesian (start)
+15:17:22.388 : DEBUG: actuator_mm x = 21.854780, y = 40.529675
+15:17:22.388 : DEBUG: x_sin =  44.670650
+15:17:22.393 : DEBUG: x_cos =  111.375648
+15:17:22.394 : DEBUG: y_sin =  106.329338
+15:17:22.400 : DEBUG: y_cos =  55.624378
+15:17:22.400 : DEBUG: cartesian_mm[X_AXIS] = 240.000031
+15:17:22.404 : DEBUG: cartesian_mm[Y_AXIS] =  29.999985
+15:17:22.409 : DEBUG: actuator_to_cartesian (end)
+15:17:22.409 : DEBUG: cartesian_to_actuator (start)
+15:17:22.414 : DEBUG: cartesian_mm x=240.000031, y=29.999985, z=180.000000
+15:17:22.419 : DEBUG: SCARA_pos x=167.000031, y=150.999985
+15:17:22.428 : DEBUG: C2=0.760070, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:17:22.431 : DEBUG: actuator_mm x=21.854784, y=40.529655, z=180.000000
+15:17:22.431 : DEBUG: cartesian_to_actuator (end)
+15:17:22.440 : DEBUG: actuator_to_cartesian (start)
+15:17:22.445 : DEBUG: actuator_mm x = 0.000000, y = 120.000000
+15:17:22.445 : DEBUG: x_sin =  0.000000
+15:17:22.445 : DEBUG: x_cos =  120.000000
+15:17:22.448 : DEBUG: y_sin =  103.923042
+15:17:22.448 : DEBUG: y_cos =  -60.000008
+15:17:22.455 : DEBUG: cartesian_mm[X_AXIS] = 133.000000
+15:17:22.464 : DEBUG: cartesian_mm[Y_AXIS] =  -17.076958
+15:17:22.464 : DEBUG: actuator_to_cartesian (end)
+15:17:22.469 : DEBUG: move: G0 X133.000 Y-17.077 Z180.000 F3600.0
+15:17:22.474 : DEBUG: cartesian_to_actuator (start)
+15:17:22.480 : DEBUG: cartesian_mm x=133.000000, y=-17.077000, z=180.000000
+15:17:22.480 : DEBUG: SCARA_pos x=60.000000, y=103.923004
+15:17:22.485 : DEBUG: C2=-0.500000, S2=0.866025, Theta=-0.000000, Psi=2.094395
+15:17:22.487 : DEBUG: actuator_mm x=-0.000020, y=120.000008, z=180.000000
+15:17:22.487 : DEBUG: cartesian_to_actuator (end)
+15:17:36.015 : N302 G1 X-1 F3000*40
+15:17:36.025 : DEBUG: cartesian_to_actuator (start)
+15:17:36.029 : DEBUG: cartesian_mm x=-1.000000, y=-17.077000, z=180.000000
+15:17:36.035 : DEBUG: SCARA_pos x=-74.000000, y=103.923004
+15:17:36.044 : DEBUG: C2=-0.434861, S2=0.900497, Theta=1.179234, Psi=2.020681
+15:17:36.044 : DEBUG: actuator_mm x=67.565117, y=115.776466, z=180.000000
+15:17:36.044 : DEBUG: cartesian_to_actuator (end)
+15:17:44.143 : N306 G1 X9 F3000*9
+15:17:44.153 : DEBUG: cartesian_to_actuator (start)
+15:17:44.157 : DEBUG: cartesian_mm x=9.000000, y=-17.077000, z=180.000000
+15:17:44.163 : DEBUG: SCARA_pos x=-64.000000, y=103.923004
+15:17:44.172 : DEBUG: C2=-0.482778, S2=0.875743, Theta=1.085472, Psi=2.074620
+15:17:44.172 : DEBUG: actuator_mm x=62.192940, y=118.866989, z=180.000000
+15:17:44.172 : DEBUG: cartesian_to_actuator (end)
+15:17:45.241 : N307 G1 X19 F3000*57
+15:17:45.251 : DEBUG: cartesian_to_actuator (start)
+15:17:45.256 : DEBUG: cartesian_mm x=19.000000, y=-17.077000, z=180.000000
+15:17:45.262 : DEBUG: SCARA_pos x=-54.000000, y=103.923004
+15:17:45.270 : DEBUG: C2=-0.523750, S2=0.851872, Theta=0.988991, Psi=2.122044
+15:17:45.270 : DEBUG: actuator_mm x=56.665009, y=121.584137, z=180.000000
+15:17:45.271 : DEBUG: cartesian_to_actuator (end)
+15:17:46.170 : N309 G1 X29 F3000*52
+15:17:46.181 : DEBUG: cartesian_to_actuator (start)
+15:17:46.185 : DEBUG: cartesian_mm x=29.000000, y=-17.077000, z=180.000000
+15:17:46.190 : DEBUG: SCARA_pos x=-44.000000, y=103.923004
+15:17:46.199 : DEBUG: C2=-0.557778, S2=0.829990, Theta=0.890051, Psi=2.162503
+15:17:46.199 : DEBUG: actuator_mm x=50.996189, y=123.902275, z=180.000000
+15:17:46.199 : DEBUG: cartesian_to_actuator (end)
+15:17:47.076 : N310 G1 X39 F3000*61
+15:17:47.086 : DEBUG: cartesian_to_actuator (start)
+15:17:47.090 : DEBUG: cartesian_mm x=39.000000, y=-17.077000, z=180.000000
+15:17:47.096 : DEBUG: SCARA_pos x=-34.000000, y=103.923004
+15:17:47.105 : DEBUG: C2=-0.584861, S2=0.811133, Theta=0.789233, Psi=2.195506
+15:17:47.105 : DEBUG: actuator_mm x=45.219704, y=125.793198, z=180.000000
+15:17:47.105 : DEBUG: cartesian_to_actuator (end)
+15:17:47.907 : N311 G1 X49 F3000*59
+15:17:47.917 : DEBUG: cartesian_to_actuator (start)
+15:17:47.922 : DEBUG: cartesian_mm x=49.000000, y=-17.077000, z=180.000000
+15:17:47.927 : DEBUG: SCARA_pos x=-24.000000, y=103.923004
+15:17:47.936 : DEBUG: C2=-0.605000, S2=0.796225, Theta=0.687476, Psi=2.220562
+15:17:47.936 : DEBUG: actuator_mm x=39.389484, y=127.228851, z=180.000000
+15:17:47.936 : DEBUG: cartesian_to_actuator (end)
+15:17:49.547 : N313 G1 X59 F3000*56
+15:17:49.557 : DEBUG: cartesian_to_actuator (start)
+15:17:49.561 : DEBUG: cartesian_mm x=59.000000, y=-17.077000, z=180.000000
+15:17:49.566 : DEBUG: SCARA_pos x=-14.000000, y=103.923004
+15:17:49.575 : DEBUG: C2=-0.618195, S2=0.786025, Theta=0.586085, Psi=2.237240
+15:17:49.576 : DEBUG: actuator_mm x=33.580200, y=128.184418, z=180.000000
+15:17:49.576 : DEBUG: cartesian_to_actuator (end)
+15:17:50.615 : N314 G1 X69 F3000*60
+15:17:50.625 : DEBUG: cartesian_to_actuator (start)
+15:17:50.630 : DEBUG: cartesian_mm x=69.000000, y=-17.077000, z=180.000000
+15:17:50.634 : DEBUG: SCARA_pos x=-4.000000, y=103.923004
+15:17:50.644 : DEBUG: C2=-0.624445, S2=0.781069, Theta=0.486659, Psi=2.245217
+15:17:50.644 : DEBUG: actuator_mm x=27.883507, y=128.641449, z=180.000000
+15:17:50.644 : DEBUG: cartesian_to_actuator (end)
+15:17:51.686 : N315 G1 X79 F3000*60
+15:17:51.696 : DEBUG: cartesian_to_actuator (start)
+15:17:51.700 : DEBUG: cartesian_mm x=79.000000, y=-17.077000, z=180.000000
+15:17:51.706 : DEBUG: SCARA_pos x=6.000000, y=103.923004
+15:17:51.715 : DEBUG: C2=-0.623750, S2=0.781624, Theta=0.390961, Psi=2.244328
+15:17:51.715 : DEBUG: actuator_mm x=22.400431, y=128.590515, z=180.000000
+15:17:51.715 : DEBUG: cartesian_to_actuator (end)
+15:17:52.717 : N317 G1 X89 F3000*49
+15:17:52.727 : DEBUG: cartesian_to_actuator (start)
+15:17:52.731 : DEBUG: cartesian_mm x=89.000000, y=-17.077000, z=180.000000
+15:17:52.737 : DEBUG: SCARA_pos x=16.000000, y=103.923004
+15:17:52.746 : DEBUG: C2=-0.616111, S2=0.787659, Theta=0.300739, Psi=2.234592
+15:17:52.746 : DEBUG: actuator_mm x=17.231098, y=128.032715, z=180.000000
+15:17:52.746 : DEBUG: cartesian_to_actuator (end)
+15:17:53.788 : N318 G1 X99 F3000*63
+15:17:53.798 : DEBUG: cartesian_to_actuator (start)
+15:17:53.803 : DEBUG: cartesian_mm x=99.000000, y=-17.077000, z=180.000000
+15:17:53.809 : DEBUG: SCARA_pos x=26.000000, y=103.923004
+15:17:53.817 : DEBUG: C2=-0.601528, S2=0.798852, Theta=0.217539, Psi=2.216209
+15:17:53.817 : DEBUG: actuator_mm x=12.464060, y=126.979408, z=180.000000
+15:17:53.817 : DEBUG: cartesian_to_actuator (end)
+15:17:56.213 : N320 G1 Y10 F3000*52
+15:17:56.223 : DEBUG: cartesian_to_actuator (start)
+15:17:56.228 : DEBUG: cartesian_mm x=99.000000, y=10.000000, z=180.000000
+15:17:56.233 : DEBUG: SCARA_pos x=26.000000, y=131.000000
+15:17:56.242 : DEBUG: C2=-0.380660, S2=0.924715, Theta=0.394216, Psi=1.961306
+15:17:56.242 : DEBUG: actuator_mm x=22.586922, y=112.374542, z=180.000000
+15:17:56.242 : DEBUG: cartesian_to_actuator (end)
+15:17:59.367 : N322 G1 Y0 F3000*7
+15:17:59.377 : DEBUG: cartesian_to_actuator (start)
+15:17:59.381 : DEBUG: cartesian_mm x=99.000000, y=0.000000, z=180.000000
+15:17:59.387 : DEBUG: SCARA_pos x=26.000000, y=121.000000
+15:17:59.395 : DEBUG: C2=-0.468160, S2=0.883644, Theta=0.330137, Psi=2.058003
+15:17:59.395 : DEBUG: actuator_mm x=18.915457, y=117.914902, z=180.000000
+15:17:59.396 : DEBUG: cartesian_to_actuator (end)
+15:18:00.305 : N323 G1 Y-10 F3000*26
+15:18:00.315 : DEBUG: cartesian_to_actuator (start)
+15:18:00.320 : DEBUG: cartesian_mm x=99.000000, y=-10.000000, z=180.000000
+15:18:00.325 : DEBUG: SCARA_pos x=26.000000, y=111.000000
+15:18:00.334 : DEBUG: C2=-0.548715, S2=0.836009, Theta=0.264899, Psi=2.151623
+15:18:00.334 : DEBUG: actuator_mm x=15.177578, y=123.278908, z=180.000000
+15:18:00.334 : DEBUG: cartesian_to_actuator (end)
+15:18:01.335 : N325 G1 Y-20 F3000*31
+15:18:01.345 : DEBUG: cartesian_to_actuator (start)
+15:18:01.349 : DEBUG: cartesian_mm x=99.000000, y=-20.000000, z=180.000000
+15:18:01.355 : DEBUG: SCARA_pos x=26.000000, y=101.000000
+15:18:01.364 : DEBUG: C2=-0.622326, S2=0.782758, Theta=0.197587, Psi=2.242507
+15:18:01.364 : DEBUG: actuator_mm x=11.320913, y=128.486206, z=180.000000
+15:18:01.364 : DEBUG: cartesian_to_actuator (end)
+15:18:02.229 : N326 G1 Y-30 F3000*29
+15:18:02.239 : DEBUG: cartesian_to_actuator (start)
+15:18:02.243 : DEBUG: cartesian_mm x=99.000000, y=-30.000000, z=180.000000
+15:18:02.249 : DEBUG: SCARA_pos x=26.000000, y=91.000000
+15:18:02.258 : DEBUG: C2=-0.688993, S2=0.724768, Theta=0.127049, Psi=2.330895
+15:18:02.258 : DEBUG: actuator_mm x=7.279376, y=133.550446, z=180.000000
+15:18:02.258 : DEBUG: cartesian_to_actuator (end)
+15:18:03.172 : N327 G1 Y-40 F3000*27
+15:18:03.182 : DEBUG: cartesian_to_actuator (start)
+15:18:03.187 : DEBUG: cartesian_mm x=99.000000, y=-40.000000, z=180.000000
+15:18:03.193 : DEBUG: SCARA_pos x=26.000000, y=81.000000
+15:18:03.201 : DEBUG: C2=-0.748715, S2=0.662892, Theta=0.051739, Psi=2.416918
+15:18:03.201 : DEBUG: actuator_mm x=2.964406, y=138.479202, z=180.000000
+15:18:03.201 : DEBUG: cartesian_to_actuator (end)
+15:18:05.106 : N329 G1 Y-50 F3000*20
+15:18:05.116 : DEBUG: cartesian_to_actuator (start)
+15:18:05.120 : DEBUG: cartesian_mm x=99.000000, y=-50.000000, z=180.000000
+15:18:05.126 : DEBUG: SCARA_pos x=26.000000, y=71.000000
+15:18:05.135 : DEBUG: C2=-0.801493, S2=0.598004, Theta=-0.030527, Psi=2.500584
+15:18:05.135 : DEBUG: actuator_mm x=-1.749047, y=143.272903, z=180.000000
+15:18:05.135 : DEBUG: cartesian_to_actuator (end)
+15:18:06.244 : N330 G1 Y-60 F3000*31
+15:18:06.254 : DEBUG: cartesian_to_actuator (start)
+15:18:06.258 : DEBUG: cartesian_mm x=99.000000, y=-60.000000, z=180.000000
+15:18:06.264 : DEBUG: SCARA_pos x=26.000000, y=61.000000
+15:18:06.272 : DEBUG: C2=-0.847326, S2=0.531072, Theta=-0.122979, Psi=2.581727
+15:18:06.272 : DEBUG: actuator_mm x=-7.046163, y=147.922043, z=180.000000
+15:18:06.272 : DEBUG: cartesian_to_actuator (end)
+15:18:07.217 : N331 G1 Y-70 F3000*31
+15:18:07.227 : DEBUG: cartesian_to_actuator (start)
+15:18:07.231 : DEBUG: cartesian_mm x=99.000000, y=-70.000000, z=180.000000
+15:18:07.237 : DEBUG: SCARA_pos x=26.000000, y=51.000000
+15:18:07.246 : DEBUG: C2=-0.886215, S2=0.463274, Theta=-0.230617, Psi=2.659907
+15:18:07.246 : DEBUG: actuator_mm x=-13.213390, y=152.401428, z=180.000000
+15:18:07.246 : DEBUG: cartesian_to_actuator (end)
+15:18:09.681 : N333 G1 X109 F3000*14
+15:18:09.691 : DEBUG: cartesian_to_actuator (start)
+15:18:09.695 : DEBUG: cartesian_mm x=109.000000, y=-70.000000, z=180.000000
+15:18:09.701 : DEBUG: SCARA_pos x=36.000000, y=51.000000
+15:18:09.710 : DEBUG: C2=-0.864688, S2=0.502310, Theta=-0.351529, Psi=2.615324
+15:18:09.710 : DEBUG: actuator_mm x=-20.141108, y=149.847031, z=180.000000
+15:18:09.710 : DEBUG: cartesian_to_actuator (end)
+15:18:12.230 : N335 G1 X99 F3000*48
+15:18:12.240 : DEBUG: cartesian_to_actuator (start)
+15:18:12.244 : DEBUG: cartesian_mm x=99.000000, y=-70.000000, z=180.000000
+15:18:12.250 : DEBUG: SCARA_pos x=26.000000, y=51.000000
+15:18:12.259 : DEBUG: C2=-0.886215, S2=0.463274, Theta=-0.230617, Psi=2.659907
+15:18:12.259 : DEBUG: actuator_mm x=-13.213390, y=152.401428, z=180.000000
+15:18:12.259 : DEBUG: cartesian_to_actuator (end)
+15:18:12.855 : N336 G1 X89 F3000*50
+15:18:12.865 : DEBUG: cartesian_to_actuator (start)
+15:18:12.869 : DEBUG: cartesian_mm x=89.000000, y=-70.000000, z=180.000000
+15:18:12.876 : DEBUG: SCARA_pos x=16.000000, y=51.000000
+15:18:12.884 : DEBUG: C2=-0.900799, S2=0.434237, Theta=-0.079405, Psi=2.692401
+15:18:12.884 : DEBUG: actuator_mm x=-4.549591, y=154.263229, z=180.000000
+15:18:12.885 : DEBUG: cartesian_to_actuator (end)
+15:18:14.424 : N338 G1 X79 F3000*51
+15:18:14.434 : DEBUG: cartesian_to_actuator (start)
+15:18:14.438 : DEBUG: cartesian_mm x=79.000000, y=-70.000000, z=180.000000
+15:18:14.444 : DEBUG: SCARA_pos x=6.000000, y=51.000000
+15:18:14.453 : DEBUG: C2=-0.908437, S2=0.418021, Theta=0.098524, Psi=2.710327
+15:18:14.453 : DEBUG: actuator_mm x=5.645010, y=155.290298, z=180.000000
+15:18:14.453 : DEBUG: cartesian_to_actuator (end)
+15:18:15.675 : N339 G1 X69 F3000*51
+15:18:15.685 : DEBUG: cartesian_to_actuator (start)
+15:18:15.690 : DEBUG: cartesian_mm x=69.000000, y=-70.000000, z=180.000000
+15:18:15.695 : DEBUG: SCARA_pos x=-4.000000, y=51.000000
+15:18:15.704 : DEBUG: C2=-0.909132, S2=0.416508, Theta=0.293072, Psi=2.711992
+15:18:15.705 : DEBUG: actuator_mm x=16.791773, y=155.385666, z=180.000000
+15:18:15.705 : DEBUG: cartesian_to_actuator (end)
+15:18:18.675 : N341 G1 Y-80 F3000*23
+15:18:18.685 : DEBUG: cartesian_to_actuator (start)
+15:18:18.690 : DEBUG: cartesian_mm x=69.000000, y=-80.000000, z=180.000000
+15:18:18.695 : DEBUG: SCARA_pos x=-4.000000, y=41.000000
+15:18:18.703 : DEBUG: C2=-0.941076, S2=0.338194, Theta=0.269752, Psi=2.796595
+15:18:18.704 : DEBUG: actuator_mm x=15.455636, y=160.233109, z=180.000000
+15:18:18.704 : DEBUG: cartesian_to_actuator (end)
+15:18:19.565 : N343 G1 Y-90 F3000*20
+15:18:19.575 : DEBUG: cartesian_to_actuator (start)
+15:18:19.579 : DEBUG: cartesian_mm x=69.000000, y=-90.000000, z=180.000000
+15:18:19.585 : DEBUG: SCARA_pos x=-4.000000, y=31.000000
+15:18:19.593 : DEBUG: C2=-0.950000, S2=0.312250, Theta=0.287103, Psi=2.824032
+15:18:19.594 : DEBUG: actuator_mm x=16.449814, y=161.805130, z=180.000000
+15:18:19.594 : DEBUG: cartesian_to_actuator (end)
+15:18:20.406 : N344 G1 Y-100 F3000*43
+15:18:20.416 : DEBUG: cartesian_to_actuator (start)
+15:18:20.420 : DEBUG: cartesian_mm x=69.000000, y=-100.000000, z=180.000000
+15:18:20.427 : DEBUG: SCARA_pos x=-4.000000, y=21.000000
+15:18:20.435 : DEBUG: C2=-0.950000, S2=0.312250, Theta=0.347002, Psi=2.824032
+15:18:20.435 : DEBUG: actuator_mm x=19.881733, y=161.805130, z=180.000000
+15:18:20.435 : DEBUG: cartesian_to_actuator (end)
+15:18:21.372 : N345 G1 Y-110 F3000*43
+15:18:21.382 : DEBUG: cartesian_to_actuator (start)
+15:18:21.387 : DEBUG: cartesian_mm x=69.000000, y=-110.000000, z=180.000000
+15:18:21.392 : DEBUG: SCARA_pos x=-4.000000, y=11.000000
+15:18:21.401 : DEBUG: C2=-0.950000, S2=0.312250, Theta=0.507551, Psi=2.824032
+15:18:21.401 : DEBUG: actuator_mm x=29.080540, y=161.805130, z=180.000000
+15:18:21.401 : DEBUG: cartesian_to_actuator (end)
+15:18:28.634 : N348 G1 Y-120 F3000*37
+15:18:28.644 : DEBUG: cartesian_to_actuator (start)
+15:18:28.649 : DEBUG: cartesian_mm x=69.000000, y=-120.000000, z=180.000000
+15:18:28.654 : DEBUG: SCARA_pos x=-4.000000, y=1.000000
+15:18:28.663 : DEBUG: C2=-0.950000, S2=0.312250, Theta=1.484598, Psi=2.824032
+15:18:28.663 : DEBUG: actuator_mm x=85.061188, y=161.805130, z=180.000000
+15:18:28.663 : DEBUG: cartesian_to_actuator (end)
+15:18:34.928 : N352 G1 Y-110 F3000*45
+15:18:34.938 : DEBUG: cartesian_to_actuator (start)
+15:18:34.943 : DEBUG: cartesian_mm x=69.000000, y=-110.000000, z=180.000000
+15:18:34.948 : DEBUG: SCARA_pos x=-4.000000, y=11.000000
+15:18:34.957 : DEBUG: C2=-0.950000, S2=0.312250, Theta=0.507551, Psi=2.824032
+15:18:34.957 : DEBUG: actuator_mm x=29.080540, y=161.805130, z=180.000000
+15:18:34.957 : DEBUG: cartesian_to_actuator (end)
+15:18:41.265 : N355 G1 Y-100 F3000*43
+15:18:41.276 : DEBUG: cartesian_to_actuator (start)
+15:18:41.280 : DEBUG: cartesian_mm x=69.000000, y=-100.000000, z=180.000000
+15:18:41.286 : DEBUG: SCARA_pos x=-4.000000, y=21.000000
+15:18:41.294 : DEBUG: C2=-0.950000, S2=0.312250, Theta=0.347002, Psi=2.824032
+15:18:41.296 : DEBUG: actuator_mm x=19.881733, y=161.805130, z=180.000000
+15:18:41.296 : DEBUG: cartesian_to_actuator (end)
+15:18:42.600 : N356 G1 Y-90 F3000*16
+15:18:42.612 : DEBUG: cartesian_to_actuator (start)
+15:18:42.614 : DEBUG: cartesian_mm x=69.000000, y=-90.000000, z=180.000000
+15:18:42.620 : DEBUG: SCARA_pos x=-4.000000, y=31.000000
+15:18:42.629 : DEBUG: C2=-0.950000, S2=0.312250, Theta=0.287103, Psi=2.824032
+15:18:42.629 : DEBUG: actuator_mm x=16.449814, y=161.805130, z=180.000000
+15:18:42.629 : DEBUG: cartesian_to_actuator (end)
+15:18:43.556 : N357 G1 Y-80 F3000*16
+15:18:43.566 : DEBUG: cartesian_to_actuator (start)
+15:18:43.570 : DEBUG: cartesian_mm x=69.000000, y=-80.000000, z=180.000000
+15:18:43.576 : DEBUG: SCARA_pos x=-4.000000, y=41.000000
+15:18:43.584 : DEBUG: C2=-0.941076, S2=0.338194, Theta=0.269752, Psi=2.796595
+15:18:43.585 : DEBUG: actuator_mm x=15.455636, y=160.233109, z=180.000000
+15:18:43.585 : DEBUG: cartesian_to_actuator (end)
+15:18:44.340 : N359 G1 Y-70 F3000*17
+15:18:44.350 : DEBUG: cartesian_to_actuator (start)
+15:18:44.354 : DEBUG: cartesian_mm x=69.000000, y=-70.000000, z=180.000000
+15:18:44.360 : DEBUG: SCARA_pos x=-4.000000, y=51.000000
+15:18:44.369 : DEBUG: C2=-0.909132, S2=0.416508, Theta=0.293072, Psi=2.711992
+15:18:44.369 : DEBUG: actuator_mm x=16.791773, y=155.385666, z=180.000000
+15:18:44.369 : DEBUG: cartesian_to_actuator (end)
+15:18:44.605 : N360 G1 Y-60 F3000*26
+15:18:44.615 : DEBUG: cartesian_to_actuator (start)
+15:18:44.620 : DEBUG: cartesian_mm x=69.000000, y=-60.000000, z=180.000000
+15:18:44.626 : DEBUG: SCARA_pos x=-4.000000, y=61.000000
+15:18:44.634 : DEBUG: C2=-0.870243, S2=0.492623, Theta=0.323030, Psi=2.626492
+15:18:44.634 : DEBUG: actuator_mm x=18.508278, y=150.486893, z=180.000000
+15:18:44.634 : DEBUG: cartesian_to_actuator (end)
+15:18:44.804 : N361 G1 Y-50 F3000*24
+15:18:44.814 : DEBUG: cartesian_to_actuator (start)
+15:18:44.818 : DEBUG: cartesian_mm x=69.000000, y=-50.000000, z=180.000000
+15:18:44.824 : DEBUG: SCARA_pos x=-4.000000, y=71.000000
+15:18:44.833 : DEBUG: C2=-0.824410, S2=0.565993, Theta=0.357097, Psi=2.539955
+15:18:44.834 : DEBUG: actuator_mm x=20.460175, y=145.528687, z=180.000000
+15:18:44.834 : DEBUG: cartesian_to_actuator (end)
+15:18:45.015 : N362 G1 Y-40 F3000*26
+15:18:45.025 : DEBUG: cartesian_to_actuator (start)
+15:18:45.030 : DEBUG: cartesian_mm x=69.000000, y=-40.000000, z=180.000000
+15:18:45.035 : DEBUG: SCARA_pos x=-4.000000, y=81.000000
+15:18:45.044 : DEBUG: C2=-0.771632, S2=0.636069, Theta=0.394039, Psi=2.452199
+15:18:45.044 : DEBUG: actuator_mm x=22.576794, y=140.500656, z=180.000000
+15:18:45.044 : DEBUG: cartesian_to_actuator (end)
+15:18:47.254 : N364 G1 X79 F3000*58
+15:18:47.265 : DEBUG: cartesian_to_actuator (start)
+15:18:47.269 : DEBUG: cartesian_mm x=79.000000, y=-40.000000, z=180.000000
+15:18:47.275 : DEBUG: SCARA_pos x=6.000000, y=81.000000
+15:18:47.283 : DEBUG: C2=-0.770938, S2=0.636911, Theta=0.271303, Psi=2.451108
+15:18:47.283 : DEBUG: actuator_mm x=15.544530, y=140.438141, z=180.000000
+15:18:47.283 : DEBUG: cartesian_to_actuator (end)
+15:18:48.231 : N365 G1 X89 F3000*52
+15:18:48.241 : DEBUG: cartesian_to_actuator (start)
+15:18:48.245 : DEBUG: cartesian_mm x=89.000000, y=-40.000000, z=180.000000
+15:18:48.251 : DEBUG: SCARA_pos x=16.000000, y=81.000000
+15:18:48.260 : DEBUG: C2=-0.763299, S2=0.646046, Theta=0.156176, Psi=2.439200
+15:18:48.260 : DEBUG: actuator_mm x=8.948230, y=139.755875, z=180.000000
+15:18:48.260 : DEBUG: cartesian_to_actuator (end)
+15:18:49.351 : N366 G1 X99 F3000*54
+15:18:49.361 : DEBUG: cartesian_to_actuator (start)
+15:18:49.366 : DEBUG: cartesian_mm x=99.000000, y=-40.000000, z=180.000000
+15:18:49.372 : DEBUG: SCARA_pos x=26.000000, y=81.000000
+15:18:49.380 : DEBUG: C2=-0.748715, S2=0.662892, Theta=0.051739, Psi=2.416918
+15:18:49.380 : DEBUG: actuator_mm x=2.964406, y=138.479202, z=180.000000
+15:18:49.380 : DEBUG: cartesian_to_actuator (end)
+15:18:50.557 : N368 G1 X109 F3000*0
+15:18:50.567 : DEBUG: cartesian_to_actuator (start)
+15:18:50.572 : DEBUG: cartesian_mm x=109.000000, y=-40.000000, z=180.000000
+15:18:50.578 : DEBUG: SCARA_pos x=36.000000, y=81.000000
+15:18:50.586 : DEBUG: C2=-0.727188, S2=0.686439, Theta=-0.039934, Psi=2.385012
+15:18:50.586 : DEBUG: actuator_mm x=-2.288055, y=136.651123, z=180.000000
+15:18:50.587 : DEBUG: cartesian_to_actuator (end)
+15:18:54.236 : N370 G1 Y-39 F3000*23
+15:18:54.246 : DEBUG: cartesian_to_actuator (start)
+15:18:54.250 : DEBUG: cartesian_mm x=109.000000, y=-39.000000, z=180.000000
+15:18:54.256 : DEBUG: SCARA_pos x=36.000000, y=82.000000
+15:18:54.265 : DEBUG: C2=-0.721528, S2=0.692385, Theta=-0.031294, Psi=2.376803
+15:18:54.265 : DEBUG: actuator_mm x=-1.793025, y=136.180756, z=180.000000
+15:18:54.265 : DEBUG: cartesian_to_actuator (end)
+15:18:54.826 : N371 G1 Y-38 F3000*23
+15:18:54.836 : DEBUG: cartesian_to_actuator (start)
+15:18:54.841 : DEBUG: cartesian_mm x=109.000000, y=-38.000000, z=180.000000
+15:18:54.846 : DEBUG: SCARA_pos x=36.000000, y=83.000000
+15:18:54.855 : DEBUG: C2=-0.715799, S2=0.698307, Theta=-0.022731, Psi=2.368563
+15:18:54.855 : DEBUG: actuator_mm x=-1.302406, y=135.708679, z=180.000000
+15:18:54.855 : DEBUG: cartesian_to_actuator (end)
+15:18:55.028 : N372 G1 Y-37 F3000*27
+15:18:55.038 : DEBUG: cartesian_to_actuator (start)
+15:18:55.042 : DEBUG: cartesian_mm x=109.000000, y=-37.000000, z=180.000000
+15:18:55.048 : DEBUG: SCARA_pos x=36.000000, y=84.000000
+15:18:55.057 : DEBUG: C2=-0.710000, S2=0.704202, Theta=-0.014243, Psi=2.360295
+15:18:55.057 : DEBUG: actuator_mm x=-0.816049, y=135.234909, z=180.000000
+15:18:55.057 : DEBUG: cartesian_to_actuator (end)
+15:18:55.219 : N373 G1 Y-36 F3000*27
+15:18:55.229 : DEBUG: cartesian_to_actuator (start)
+15:18:55.233 : DEBUG: cartesian_mm x=109.000000, y=-36.000000, z=180.000000
+15:18:55.239 : DEBUG: SCARA_pos x=36.000000, y=85.000000
+15:18:55.248 : DEBUG: C2=-0.704132, S2=0.710069, Theta=-0.005826, Psi=2.351996
+15:18:55.248 : DEBUG: actuator_mm x=-0.333817, y=134.759460, z=180.000000
+15:18:55.248 : DEBUG: cartesian_to_actuator (end)
+15:18:55.419 : N374 G1 Y-35 F3000*31
+15:18:55.429 : DEBUG: cartesian_to_actuator (start)
+15:18:55.434 : DEBUG: cartesian_mm x=109.000000, y=-35.000000, z=180.000000
+15:18:55.439 : DEBUG: SCARA_pos x=36.000000, y=86.000000
+15:18:55.448 : DEBUG: C2=-0.698194, S2=0.715908, Theta=0.002521, Psi=2.343669
+15:18:55.448 : DEBUG: actuator_mm x=0.144426, y=134.282318, z=180.000000
+15:18:55.448 : DEBUG: cartesian_to_actuator (end)
+15:18:55.668 : N375 G1 Y-34 F3000*31
+15:18:55.678 : DEBUG: cartesian_to_actuator (start)
+15:18:55.682 : DEBUG: cartesian_mm x=109.000000, y=-34.000000, z=180.000000
+15:18:55.688 : DEBUG: SCARA_pos x=36.000000, y=87.000000
+15:18:55.697 : DEBUG: C2=-0.692187, S2=0.721718, Theta=0.010800, Psi=2.335312
+15:18:55.697 : DEBUG: actuator_mm x=0.618805, y=133.803513, z=180.000000
+15:18:55.697 : DEBUG: cartesian_to_actuator (end)
+15:18:55.862 : N376 G1 Y-33 F3000*27
+15:18:55.872 : DEBUG: cartesian_to_actuator (start)
+15:18:55.877 : DEBUG: cartesian_mm x=109.000000, y=-33.000000, z=180.000000
+15:18:55.883 : DEBUG: SCARA_pos x=36.000000, y=88.000000
+15:18:55.890 : DEBUG: C2=-0.686111, S2=0.727497, Theta=0.019015, Psi=2.326926
+15:18:55.890 : DEBUG: actuator_mm x=1.089453, y=133.323044, z=180.000000
+15:18:55.890 : DEBUG: cartesian_to_actuator (end)
+15:18:56.057 : N377 G1 Y-32 F3000*27
+15:18:56.067 : DEBUG: cartesian_to_actuator (start)
+15:18:56.072 : DEBUG: cartesian_mm x=109.000000, y=-32.000000, z=180.000000
+15:18:56.077 : DEBUG: SCARA_pos x=36.000000, y=89.000000
+15:18:56.086 : DEBUG: C2=-0.679965, S2=0.733244, Theta=0.027166, Psi=2.318511
+15:18:56.086 : DEBUG: actuator_mm x=1.556477, y=132.840912, z=180.000000
+15:18:56.086 : DEBUG: cartesian_to_actuator (end)
+15:18:56.252 : N379 G1 Y-31 F3000*22
+15:18:56.262 : DEBUG: cartesian_to_actuator (start)
+15:18:56.266 : DEBUG: cartesian_mm x=109.000000, y=-31.000000, z=180.000000
+15:18:56.272 : DEBUG: SCARA_pos x=36.000000, y=90.000000
+15:18:56.280 : DEBUG: C2=-0.673750, S2=0.738959, Theta=0.035256, Psi=2.310068
+15:18:56.280 : DEBUG: actuator_mm x=2.020008, y=132.357147, z=180.000000
+15:18:56.280 : DEBUG: cartesian_to_actuator (end)
+15:18:56.457 : N380 G1 Y-30 F3000*17
+15:18:56.468 : DEBUG: cartesian_to_actuator (start)
+15:18:56.472 : DEBUG: cartesian_mm x=109.000000, y=-30.000000, z=180.000000
+15:18:56.478 : DEBUG: SCARA_pos x=36.000000, y=91.000000
+15:18:56.486 : DEBUG: C2=-0.667465, S2=0.744641, Theta=0.043287, Psi=2.301596
+15:18:56.486 : DEBUG: actuator_mm x=2.480165, y=131.871719, z=180.000000
+15:18:56.486 : DEBUG: cartesian_to_actuator (end)
+15:18:56.641 : N381 G1 Y-29 F3000*24
+15:18:56.651 : DEBUG: cartesian_to_actuator (start)
+15:18:56.655 : DEBUG: cartesian_mm x=109.000000, y=-29.000000, z=180.000000
+15:18:56.661 : DEBUG: SCARA_pos x=36.000000, y=92.000000
+15:18:56.669 : DEBUG: C2=-0.661111, S2=0.750288, Theta=0.051261, Psi=2.293095
+15:18:56.670 : DEBUG: actuator_mm x=2.937043, y=131.384659, z=180.000000
+15:18:56.670 : DEBUG: cartesian_to_actuator (end)
+15:18:57.039 : N382 G1 Y-28 F3000*26
+15:18:57.049 : DEBUG: cartesian_to_actuator (start)
+15:18:57.054 : DEBUG: cartesian_mm x=109.000000, y=-28.000000, z=180.000000
+15:18:57.059 : DEBUG: SCARA_pos x=36.000000, y=93.000000
+15:18:57.068 : DEBUG: C2=-0.654688, S2=0.755900, Theta=0.059180, Psi=2.284565
+15:18:57.068 : DEBUG: actuator_mm x=3.390762, y=130.895950, z=180.000000
+15:18:57.068 : DEBUG: cartesian_to_actuator (end)
+15:18:57.265 : N383 G1 Y-27 F3000*20
+15:18:57.275 : DEBUG: cartesian_to_actuator (start)
+15:18:57.280 : DEBUG: cartesian_mm x=109.000000, y=-27.000000, z=180.000000
+15:18:57.285 : DEBUG: SCARA_pos x=36.000000, y=94.000000
+15:18:57.294 : DEBUG: C2=-0.648194, S2=0.761475, Theta=0.067045, Psi=2.276007
+15:18:57.294 : DEBUG: actuator_mm x=3.841416, y=130.405594, z=180.000000
+15:18:57.294 : DEBUG: cartesian_to_actuator (end)
+15:18:57.461 : N384 G1 Y-26 F3000*18
+15:18:57.471 : DEBUG: cartesian_to_actuator (start)
+15:18:57.476 : DEBUG: cartesian_mm x=109.000000, y=-26.000000, z=180.000000
+15:18:57.481 : DEBUG: SCARA_pos x=36.000000, y=95.000000
+15:18:57.490 : DEBUG: C2=-0.641632, S2=0.767013, Theta=0.074859, Psi=2.267420
+15:18:57.490 : DEBUG: actuator_mm x=4.289120, y=129.913605, z=180.000000
+15:18:57.490 : DEBUG: cartesian_to_actuator (end)
+15:18:57.659 : N385 G1 Y-25 F3000*16
+15:18:57.669 : DEBUG: cartesian_to_actuator (start)
+15:18:57.674 : DEBUG: cartesian_mm x=109.000000, y=-25.000000, z=180.000000
+15:18:57.679 : DEBUG: SCARA_pos x=36.000000, y=96.000000
+15:18:57.688 : DEBUG: C2=-0.635000, S2=0.772512, Theta=0.082623, Psi=2.258805
+15:18:57.688 : DEBUG: actuator_mm x=4.733963, y=129.419968, z=180.000000
+15:18:57.688 : DEBUG: cartesian_to_actuator (end)
+15:18:57.853 : N386 G1 Y-24 F3000*18
+15:18:57.863 : DEBUG: cartesian_to_actuator (start)
+15:18:57.867 : DEBUG: cartesian_mm x=109.000000, y=-24.000000, z=180.000000
+15:18:57.873 : DEBUG: SCARA_pos x=36.000000, y=97.000000
+15:18:57.881 : DEBUG: C2=-0.628299, S2=0.777972, Theta=0.090339, Psi=2.250161
+15:18:57.881 : DEBUG: actuator_mm x=5.176042, y=128.924698, z=180.000000
+15:18:57.881 : DEBUG: cartesian_to_actuator (end)
+15:18:58.225 : N387 G1 Y-23 F3000*20
+15:18:58.235 : DEBUG: cartesian_to_actuator (start)
+15:18:58.240 : DEBUG: cartesian_mm x=109.000000, y=-23.000000, z=180.000000
+15:18:58.245 : DEBUG: SCARA_pos x=36.000000, y=98.000000
+15:18:58.253 : DEBUG: C2=-0.621528, S2=0.783392, Theta=0.098008, Psi=2.241488
+15:18:58.254 : DEBUG: actuator_mm x=5.615452, y=128.427780, z=180.000000
+15:18:58.254 : DEBUG: cartesian_to_actuator (end)
+15:18:58.467 : N388 G1 Y-22 F3000*26
+15:18:58.477 : DEBUG: cartesian_to_actuator (start)
+15:18:58.481 : DEBUG: cartesian_mm x=109.000000, y=-22.000000, z=180.000000
+15:18:58.487 : DEBUG: SCARA_pos x=36.000000, y=99.000000
+15:18:58.495 : DEBUG: C2=-0.614688, S2=0.788771, Theta=0.105632, Psi=2.232786
+15:18:58.496 : DEBUG: actuator_mm x=6.052287, y=127.929214, z=180.000000
+15:18:58.496 : DEBUG: cartesian_to_actuator (end)
+15:18:58.714 : N389 G1 Y-21 F3000*24
+15:18:58.724 : DEBUG: cartesian_to_actuator (start)
+15:18:58.728 : DEBUG: cartesian_mm x=109.000000, y=-21.000000, z=180.000000
+15:18:58.734 : DEBUG: SCARA_pos x=36.000000, y=100.000000
+15:18:58.743 : DEBUG: C2=-0.607778, S2=0.794107, Theta=0.113213, Psi=2.224056
+15:18:58.743 : DEBUG: actuator_mm x=6.486625, y=127.428986, z=180.000000
+15:18:58.743 : DEBUG: cartesian_to_actuator (end)
+15:18:59.306 : N390 G1 Y-20 F3000*17
+15:18:59.316 : DEBUG: cartesian_to_actuator (start)
+15:18:59.321 : DEBUG: cartesian_mm x=109.000000, y=-20.000000, z=180.000000
+15:18:59.326 : DEBUG: SCARA_pos x=36.000000, y=101.000000
+15:18:59.335 : DEBUG: C2=-0.600799, S2=0.799400, Theta=0.120752, Psi=2.215296
+15:18:59.335 : DEBUG: actuator_mm x=6.918563, y=126.927109, z=180.000000
+15:18:59.335 : DEBUG: cartesian_to_actuator (end)
+15:18:59.550 : N392 G1 Y-19 F3000*25
+15:18:59.560 : DEBUG: cartesian_to_actuator (start)
+15:18:59.564 : DEBUG: cartesian_mm x=109.000000, y=-19.000000, z=180.000000
+15:18:59.570 : DEBUG: SCARA_pos x=36.000000, y=102.000000
+15:18:59.579 : DEBUG: C2=-0.593750, S2=0.804650, Theta=0.128250, Psi=2.206508
+15:18:59.579 : DEBUG: actuator_mm x=7.348178, y=126.423569, z=180.000000
+15:18:59.579 : DEBUG: cartesian_to_actuator (end)
+15:18:59.785 : N393 G1 Y-18 F3000*25
+15:18:59.795 : DEBUG: cartesian_to_actuator (start)
+15:18:59.800 : DEBUG: cartesian_mm x=109.000000, y=-18.000000, z=180.000000
+15:18:59.805 : DEBUG: SCARA_pos x=36.000000, y=103.000000
+15:18:59.814 : DEBUG: C2=-0.586632, S2=0.809854, Theta=0.135709, Psi=2.197690
+15:18:59.814 : DEBUG: actuator_mm x=7.775554, y=125.918358, z=180.000000
+15:18:59.814 : DEBUG: cartesian_to_actuator (end)
+15:18:59.968 : N394 G1 Y-17 F3000*17
+15:18:59.978 : DEBUG: cartesian_to_actuator (start)
+15:18:59.983 : DEBUG: cartesian_mm x=109.000000, y=-17.000000, z=180.000000
+15:18:59.988 : DEBUG: SCARA_pos x=36.000000, y=104.000000
+15:18:59.997 : DEBUG: C2=-0.579444, S2=0.815012, Theta=0.143131, Psi=2.188843
+15:18:59.997 : DEBUG: actuator_mm x=8.200775, y=125.411476, z=180.000000
+15:18:59.997 : DEBUG: cartesian_to_actuator (end)
+15:19:00.200 : N395 G1 Y-16 F3000*17
+15:19:00.211 : DEBUG: cartesian_to_actuator (start)
+15:19:00.215 : DEBUG: cartesian_mm x=109.000000, y=-16.000000, z=180.000000
+15:19:00.221 : DEBUG: SCARA_pos x=36.000000, y=105.000000
+15:19:00.229 : DEBUG: C2=-0.572188, S2=0.820123, Theta=0.150515, Psi=2.179967
+15:19:00.230 : DEBUG: actuator_mm x=8.623900, y=124.902908, z=180.000000
+15:19:00.230 : DEBUG: cartesian_to_actuator (end)
+15:19:00.414 : N396 G1 Y-15 F3000*17
+15:19:00.424 : DEBUG: cartesian_to_actuator (start)
+15:19:00.429 : DEBUG: cartesian_mm x=109.000000, y=-15.000000, z=180.000000
+15:19:00.434 : DEBUG: SCARA_pos x=36.000000, y=106.000000
+15:19:00.443 : DEBUG: C2=-0.564861, S2=0.825186, Theta=0.157865, Psi=2.171061
+15:19:00.443 : DEBUG: actuator_mm x=9.045024, y=124.392639, z=180.000000
+15:19:00.443 : DEBUG: cartesian_to_actuator (end)
+15:19:00.625 : N397 G1 Y-14 F3000*17
+15:19:00.635 : DEBUG: cartesian_to_actuator (start)
+15:19:00.640 : DEBUG: cartesian_mm x=109.000000, y=-14.000000, z=180.000000
+15:19:00.645 : DEBUG: SCARA_pos x=36.000000, y=107.000000
+15:19:00.654 : DEBUG: C2=-0.557465, S2=0.830200, Theta=0.165182, Psi=2.162126
+15:19:00.654 : DEBUG: actuator_mm x=9.464217, y=123.880692, z=180.000000
+15:19:00.654 : DEBUG: cartesian_to_actuator (end)
+15:19:00.879 : N398 G1 Y-13 F3000*25
+15:19:00.889 : DEBUG: cartesian_to_actuator (start)
+15:19:00.894 : DEBUG: cartesian_mm x=109.000000, y=-13.000000, z=180.000000
+15:19:00.900 : DEBUG: SCARA_pos x=36.000000, y=108.000000
+15:19:00.908 : DEBUG: C2=-0.550000, S2=0.835165, Theta=0.172466, Psi=2.153161
+15:19:00.908 : DEBUG: actuator_mm x=9.881545, y=123.367004, z=180.000000
+15:19:00.908 : DEBUG: cartesian_to_actuator (end)
+15:19:01.106 : N399 G1 Y-12 F3000*25
+15:19:01.116 : DEBUG: cartesian_to_actuator (start)
+15:19:01.120 : DEBUG: cartesian_mm x=109.000000, y=-12.000000, z=180.000000
+15:19:01.126 : DEBUG: SCARA_pos x=36.000000, y=109.000000
+15:19:01.135 : DEBUG: C2=-0.542465, S2=0.840078, Theta=0.179718, Psi=2.144165
+15:19:01.135 : DEBUG: actuator_mm x=10.297082, y=122.851616, z=180.000000
+15:19:01.135 : DEBUG: cartesian_to_actuator (end)
+15:19:01.332 : N400 G1 Y-11 F3000*29
+15:19:01.342 : DEBUG: cartesian_to_actuator (start)
+15:19:01.347 : DEBUG: cartesian_mm x=109.000000, y=-11.000000, z=180.000000
+15:19:01.352 : DEBUG: SCARA_pos x=36.000000, y=110.000000
+15:19:01.361 : DEBUG: C2=-0.534861, S2=0.844940, Theta=0.186940, Psi=2.135139
+15:19:01.361 : DEBUG: actuator_mm x=10.710892, y=122.334473, z=180.000000
+15:19:01.361 : DEBUG: cartesian_to_actuator (end)
+15:19:01.551 : N401 G1 Y-10 F3000*29
+15:19:01.561 : DEBUG: cartesian_to_actuator (start)
+15:19:01.566 : DEBUG: cartesian_mm x=109.000000, y=-10.000000, z=180.000000
+15:19:01.572 : DEBUG: SCARA_pos x=36.000000, y=111.000000
+15:19:01.580 : DEBUG: C2=-0.527187, S2=0.849749, Theta=0.194134, Psi=2.126084
+15:19:01.580 : DEBUG: actuator_mm x=11.123052, y=121.815613, z=180.000000
+15:19:01.580 : DEBUG: cartesian_to_actuator (end)
+15:19:01.777 : N402 G1 Y-9 F3000*38
+15:19:01.787 : DEBUG: cartesian_to_actuator (start)
+15:19:01.792 : DEBUG: cartesian_mm x=109.000000, y=-9.000000, z=180.000000
+15:19:01.797 : DEBUG: SCARA_pos x=36.000000, y=112.000000
+15:19:01.806 : DEBUG: C2=-0.519444, S2=0.854504, Theta=0.201300, Psi=2.116997
+15:19:01.806 : DEBUG: actuator_mm x=11.533616, y=121.294991, z=180.000000
+15:19:01.806 : DEBUG: cartesian_to_actuator (end)
+15:19:02.013 : N403 G1 Y-8 F3000*38
+15:19:02.023 : DEBUG: cartesian_to_actuator (start)
+15:19:02.027 : DEBUG: cartesian_mm x=109.000000, y=-8.000000, z=180.000000
+15:19:02.033 : DEBUG: SCARA_pos x=36.000000, y=113.000000
+15:19:02.042 : DEBUG: C2=-0.511632, S2=0.859205, Theta=0.208439, Psi=2.107879
+15:19:02.042 : DEBUG: actuator_mm x=11.942650, y=120.772583, z=180.000000
+15:19:02.042 : DEBUG: cartesian_to_actuator (end)
+15:19:02.282 : N404 G1 Y-7 F3000*46
+15:19:02.292 : DEBUG: cartesian_to_actuator (start)
+15:19:02.296 : DEBUG: cartesian_mm x=109.000000, y=-7.000000, z=180.000000
+15:19:02.302 : DEBUG: SCARA_pos x=36.000000, y=114.000000
+15:19:02.311 : DEBUG: C2=-0.503750, S2=0.863850, Theta=0.215552, Psi=2.098731
+15:19:02.311 : DEBUG: actuator_mm x=12.350226, y=120.248398, z=180.000000
+15:19:02.311 : DEBUG: cartesian_to_actuator (end)
+15:19:02.533 : N406 G1 Y-6 F3000*45
+15:19:02.543 : DEBUG: cartesian_to_actuator (start)
+15:19:02.548 : DEBUG: cartesian_mm x=109.000000, y=-6.000000, z=180.000000
+15:19:02.554 : DEBUG: SCARA_pos x=36.000000, y=115.000000
+15:19:02.562 : DEBUG: C2=-0.495799, S2=0.868438, Theta=0.222641, Psi=2.089550
+15:19:02.562 : DEBUG: actuator_mm x=12.756400, y=119.722420, z=180.000000
+15:19:02.562 : DEBUG: cartesian_to_actuator (end)
+15:19:02.773 : N407 G1 Y-5 F3000*47
+15:19:02.783 : DEBUG: cartesian_to_actuator (start)
+15:19:02.787 : DEBUG: cartesian_mm x=109.000000, y=-5.000000, z=180.000000
+15:19:02.793 : DEBUG: SCARA_pos x=36.000000, y=116.000000
+15:19:02.802 : DEBUG: C2=-0.487778, S2=0.872968, Theta=0.229707, Psi=2.080338
+15:19:02.802 : DEBUG: actuator_mm x=13.161229, y=119.194611, z=180.000000
+15:19:02.802 : DEBUG: cartesian_to_actuator (end)
+15:19:03.027 : N408 G1 Y-4 F3000*33
+15:19:03.037 : DEBUG: cartesian_to_actuator (start)
+15:19:03.041 : DEBUG: cartesian_mm x=109.000000, y=-4.000000, z=180.000000
+15:19:03.047 : DEBUG: SCARA_pos x=36.000000, y=117.000000
+15:19:03.055 : DEBUG: C2=-0.479688, S2=0.877439, Theta=0.236750, Psi=2.071095
+15:19:03.055 : DEBUG: actuator_mm x=13.564775, y=118.664993, z=180.000000
+15:19:03.055 : DEBUG: cartesian_to_actuator (end)
+15:19:03.278 : N409 G1 Y-3 F3000*39
+15:19:03.288 : DEBUG: cartesian_to_actuator (start)
+15:19:03.292 : DEBUG: cartesian_mm x=109.000000, y=-3.000000, z=180.000000
+15:19:03.298 : DEBUG: SCARA_pos x=36.000000, y=118.000000
+15:19:03.307 : DEBUG: C2=-0.471528, S2=0.881851, Theta=0.243772, Psi=2.061819
+15:19:03.307 : DEBUG: actuator_mm x=13.967095, y=118.133499, z=180.000000
+15:19:03.307 : DEBUG: cartesian_to_actuator (end)
+15:19:03.535 : N410 G1 Y-2 F3000*46
+15:19:03.545 : DEBUG: cartesian_to_actuator (start)
+15:19:03.550 : DEBUG: cartesian_mm x=109.000000, y=-2.000000, z=180.000000
+15:19:03.556 : DEBUG: SCARA_pos x=36.000000, y=119.000000
+15:19:03.564 : DEBUG: C2=-0.463299, S2=0.886202, Theta=0.250773, Psi=2.052510
+15:19:03.565 : DEBUG: actuator_mm x=14.368248, y=117.600166, z=180.000000
+15:19:03.565 : DEBUG: cartesian_to_actuator (end)
+15:19:03.762 : N411 G1 Y-1 F3000*44
+15:19:03.772 : DEBUG: cartesian_to_actuator (start)
+15:19:03.777 : DEBUG: cartesian_mm x=109.000000, y=-1.000000, z=180.000000
+15:19:03.782 : DEBUG: SCARA_pos x=36.000000, y=120.000000
+15:19:03.791 : DEBUG: C2=-0.455000, S2=0.890491, Theta=0.257755, Psi=2.043169
+15:19:03.791 : DEBUG: actuator_mm x=14.768289, y=117.064926, z=180.000000
+15:19:03.791 : DEBUG: cartesian_to_actuator (end)
+15:19:04.007 : N412 G1 Y0 F3000*3
+15:19:04.017 : DEBUG: cartesian_to_actuator (start)
+15:19:04.021 : DEBUG: cartesian_mm x=109.000000, y=0.000000, z=180.000000
+15:19:04.027 : DEBUG: SCARA_pos x=36.000000, y=121.000000
+15:19:04.035 : DEBUG: C2=-0.446632, S2=0.894718, Theta=0.264719, Psi=2.033794
+15:19:04.036 : DEBUG: actuator_mm x=15.167268, y=116.527786, z=180.000000
+15:19:04.036 : DEBUG: cartesian_to_actuator (end)
+15:19:04.249 : N413 G1 Y1 F3000*3
+15:19:04.259 : DEBUG: cartesian_to_actuator (start)
+15:19:04.264 : DEBUG: cartesian_mm x=109.000000, y=1.000000, z=180.000000
+15:19:04.270 : DEBUG: SCARA_pos x=36.000000, y=122.000000
+15:19:04.278 : DEBUG: C2=-0.438194, S2=0.898880, Theta=0.271665, Psi=2.024385
+15:19:04.278 : DEBUG: actuator_mm x=15.565250, y=115.988739, z=180.000000
+15:19:04.278 : DEBUG: cartesian_to_actuator (end)
+15:19:04.467 : N414 G1 Y2 F3000*7
+15:19:04.477 : DEBUG: cartesian_to_actuator (start)
+15:19:04.481 : DEBUG: cartesian_mm x=109.000000, y=2.000000, z=180.000000
+15:19:04.487 : DEBUG: SCARA_pos x=36.000000, y=123.000000
+15:19:04.496 : DEBUG: C2=-0.429688, S2=0.902978, Theta=0.278594, Psi=2.014943
+15:19:04.496 : DEBUG: actuator_mm x=15.962284, y=115.447731, z=180.000000
+15:19:04.497 : DEBUG: cartesian_to_actuator (end)
+15:19:04.710 : N415 G1 Y3 F3000*7
+15:19:04.720 : DEBUG: cartesian_to_actuator (start)
+15:19:04.724 : DEBUG: cartesian_mm x=109.000000, y=3.000000, z=180.000000
+15:19:04.730 : DEBUG: SCARA_pos x=36.000000, y=124.000000
+15:19:04.738 : DEBUG: C2=-0.421111, S2=0.907009, Theta=0.285508, Psi=2.005466
+15:19:04.739 : DEBUG: actuator_mm x=16.358414, y=114.904755, z=180.000000
+15:19:04.739 : DEBUG: cartesian_to_actuator (end)
+15:19:04.989 : N416 G1 Y4 F3000*3
+15:19:04.999 : DEBUG: cartesian_to_actuator (start)
+15:19:05.003 : DEBUG: cartesian_mm x=109.000000, y=4.000000, z=180.000000
+15:19:05.009 : DEBUG: SCARA_pos x=36.000000, y=125.000000
+15:19:05.018 : DEBUG: C2=-0.412465, S2=0.910973, Theta=0.292407, Psi=1.995955
+15:19:05.018 : DEBUG: actuator_mm x=16.753704, y=114.359787, z=180.000000
+15:19:05.018 : DEBUG: cartesian_to_actuator (end)
+15:19:05.223 : N417 G1 Y5 F3000*3
+15:19:05.233 : DEBUG: cartesian_to_actuator (start)
+15:19:05.237 : DEBUG: cartesian_mm x=109.000000, y=5.000000, z=180.000000
+15:19:05.243 : DEBUG: SCARA_pos x=36.000000, y=126.000000
+15:19:05.252 : DEBUG: C2=-0.403750, S2=0.914869, Theta=0.299292, Psi=1.986408
+15:19:05.252 : DEBUG: actuator_mm x=17.148195, y=113.812805, z=180.000000
+15:19:05.252 : DEBUG: cartesian_to_actuator (end)
+15:19:05.459 : N419 G1 Y6 F3000*14
+15:19:05.469 : DEBUG: cartesian_to_actuator (start)
+15:19:05.473 : DEBUG: cartesian_mm x=109.000000, y=6.000000, z=180.000000
+15:19:05.479 : DEBUG: SCARA_pos x=36.000000, y=127.000000
+15:19:05.487 : DEBUG: C2=-0.394965, S2=0.918696, Theta=0.306165, Psi=1.976826
+15:19:05.487 : DEBUG: actuator_mm x=17.541941, y=113.263802, z=180.000000
+15:19:05.487 : DEBUG: cartesian_to_actuator (end)
+15:19:05.711 : N420 G1 Y7 F3000*5
+15:19:05.721 : DEBUG: cartesian_to_actuator (start)
+15:19:05.725 : DEBUG: cartesian_mm x=109.000000, y=7.000000, z=180.000000
+15:19:05.731 : DEBUG: SCARA_pos x=36.000000, y=128.000000
+15:19:05.740 : DEBUG: C2=-0.386111, S2=0.922452, Theta=0.313025, Psi=1.967208
+15:19:05.740 : DEBUG: actuator_mm x=17.934992, y=112.712730, z=180.000000
+15:19:05.740 : DEBUG: cartesian_to_actuator (end)
+15:19:05.962 : N421 G1 Y8 F3000*11
+15:19:05.971 : DEBUG: cartesian_to_actuator (start)
+15:19:05.976 : DEBUG: cartesian_mm x=109.000000, y=8.000000, z=180.000000
+15:19:05.982 : DEBUG: SCARA_pos x=36.000000, y=129.000000
+15:19:05.990 : DEBUG: C2=-0.377187, S2=0.926137, Theta=0.319873, Psi=1.957554
+15:19:05.990 : DEBUG: actuator_mm x=18.327400, y=112.159569, z=180.000000
+15:19:05.990 : DEBUG: cartesian_to_actuator (end)
+15:19:06.213 : N422 G1 Y9 F3000*9
+15:19:06.223 : DEBUG: cartesian_to_actuator (start)
+15:19:06.227 : DEBUG: cartesian_mm x=109.000000, y=9.000000, z=180.000000
+15:19:06.233 : DEBUG: SCARA_pos x=36.000000, y=130.000000
+15:19:06.242 : DEBUG: C2=-0.368194, S2=0.929749, Theta=0.326712, Psi=1.947863
+15:19:06.242 : DEBUG: actuator_mm x=18.719208, y=111.604301, z=180.000000
+15:19:06.242 : DEBUG: cartesian_to_actuator (end)
+15:19:06.434 : N423 G1 Y10 F3000*48
+15:19:06.444 : DEBUG: cartesian_to_actuator (start)
+15:19:06.448 : DEBUG: cartesian_mm x=109.000000, y=10.000000, z=180.000000
+15:19:06.454 : DEBUG: SCARA_pos x=36.000000, y=131.000000
+15:19:06.462 : DEBUG: C2=-0.359132, S2=0.933287, Theta=0.333541, Psi=1.938134
+15:19:06.462 : DEBUG: actuator_mm x=19.110466, y=111.046890, z=180.000000
+15:19:06.462 : DEBUG: cartesian_to_actuator (end)
+15:19:06.701 : N424 G1 Y11 F3000*54
+15:19:06.711 : DEBUG: cartesian_to_actuator (start)
+15:19:06.716 : DEBUG: cartesian_mm x=109.000000, y=11.000000, z=180.000000
+15:19:06.721 : DEBUG: SCARA_pos x=36.000000, y=132.000000
+15:19:06.730 : DEBUG: C2=-0.350000, S2=0.936750, Theta=0.340361, Psi=1.928367
+15:19:06.730 : DEBUG: actuator_mm x=19.501223, y=110.487305, z=180.000000
+15:19:06.730 : DEBUG: cartesian_to_actuator (end)
+15:19:08.371 : N425 G1 Y-39 F3000*16
+15:19:08.381 : DEBUG: cartesian_to_actuator (start)
+15:19:08.385 : DEBUG: cartesian_mm x=109.000000, y=-39.000000, z=180.000000
+15:19:08.391 : DEBUG: SCARA_pos x=36.000000, y=82.000000
+15:19:08.400 : DEBUG: C2=-0.721528, S2=0.692385, Theta=-0.031294, Psi=2.376803
+15:19:08.400 : DEBUG: actuator_mm x=-1.793025, y=136.180756, z=180.000000
+15:19:08.400 : DEBUG: cartesian_to_actuator (end)
+15:19:11.703 : N428 G1 Y-89 F3000*22
+15:19:11.714 : DEBUG: cartesian_to_actuator (start)
+15:19:11.718 : DEBUG: cartesian_mm x=109.000000, y=-89.000000, z=180.000000
+15:19:11.724 : DEBUG: SCARA_pos x=36.000000, y=32.000000
+15:19:11.732 : DEBUG: C2=-0.919444, S2=0.393220, Theta=-0.642089, Psi=2.737462
+15:19:11.732 : DEBUG: actuator_mm x=-36.788960, y=156.844986, z=180.000000
+15:19:11.732 : DEBUG: cartesian_to_actuator (end)
+15:19:16.976 : N430 G1 Y-120 F3000*45
+15:19:16.987 : DEBUG: cartesian_to_actuator (start)
+15:19:16.991 : DEBUG: cartesian_mm x=109.000000, y=-120.000000, z=180.000000
+15:19:16.997 : DEBUG: SCARA_pos x=36.000000, y=1.000000
+15:19:17.005 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.384246, Psi=2.824032
+15:19:17.005 : DEBUG: actuator_mm x=-79.311424, y=161.805130, z=180.000000
+15:19:17.005 : DEBUG: cartesian_to_actuator (end)
+15:19:23.081 : N433 G1 Y-120 F3000*46
+15:19:23.876 : N435 G1 Y-120 F3000*40
+15:19:25.934 : N436 G1 Y-120 F3000*43
+15:19:28.975 : N438 G1 Y-119 F3000*47
+15:19:28.986 : DEBUG: cartesian_to_actuator (start)
+15:19:28.990 : DEBUG: cartesian_mm x=109.000000, y=-119.000000, z=180.000000
+15:19:28.996 : DEBUG: SCARA_pos x=36.000000, y=2.000000
+15:19:29.004 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.356518, Psi=2.824032
+15:19:29.005 : DEBUG: actuator_mm x=-77.722725, y=161.805130, z=180.000000
+15:19:29.005 : DEBUG: cartesian_to_actuator (end)
+15:19:29.708 : N439 G1 Y-118 F3000*47
+15:19:29.718 : DEBUG: cartesian_to_actuator (start)
+15:19:29.723 : DEBUG: cartesian_mm x=109.000000, y=-118.000000, z=180.000000
+15:19:29.728 : DEBUG: SCARA_pos x=36.000000, y=3.000000
+15:19:29.737 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.328875, Psi=2.824032
+15:19:29.737 : DEBUG: actuator_mm x=-76.138916, y=161.805130, z=180.000000
+15:19:29.737 : DEBUG: cartesian_to_actuator (end)
+15:19:29.954 : N441 G1 Y-117 F3000*47
+15:19:29.965 : DEBUG: cartesian_to_actuator (start)
+15:19:29.969 : DEBUG: cartesian_mm x=109.000000, y=-117.000000, z=180.000000
+15:19:29.975 : DEBUG: SCARA_pos x=36.000000, y=4.000000
+15:19:29.984 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.301359, Psi=2.824032
+15:19:29.984 : DEBUG: actuator_mm x=-74.562370, y=161.805130, z=180.000000
+15:19:29.984 : DEBUG: cartesian_to_actuator (end)
+15:19:30.171 : N442 G1 Y-116 F3000*45
+15:19:30.181 : DEBUG: cartesian_to_actuator (start)
+15:19:30.186 : DEBUG: cartesian_mm x=109.000000, y=-116.000000, z=180.000000
+15:19:30.192 : DEBUG: SCARA_pos x=36.000000, y=5.000000
+15:19:30.200 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.274010, Psi=2.824032
+15:19:30.200 : DEBUG: actuator_mm x=-72.995392, y=161.805130, z=180.000000
+15:19:30.200 : DEBUG: cartesian_to_actuator (end)
+15:19:30.415 : N443 G1 Y-115 F3000*47
+15:19:30.425 : DEBUG: cartesian_to_actuator (start)
+15:19:30.429 : DEBUG: cartesian_mm x=109.000000, y=-115.000000, z=180.000000
+15:19:30.435 : DEBUG: SCARA_pos x=36.000000, y=6.000000
+15:19:30.444 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.246867, Psi=2.824032
+15:19:30.444 : DEBUG: actuator_mm x=-71.440239, y=161.805130, z=180.000000
+15:19:30.444 : DEBUG: cartesian_to_actuator (end)
+15:19:30.696 : N444 G1 Y-114 F3000*41
+15:19:30.706 : DEBUG: cartesian_to_actuator (start)
+15:19:30.710 : DEBUG: cartesian_mm x=109.000000, y=-114.000000, z=180.000000
+15:19:30.716 : DEBUG: SCARA_pos x=36.000000, y=7.000000
+15:19:30.725 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.219968, Psi=2.824032
+15:19:30.725 : DEBUG: actuator_mm x=-69.899017, y=161.805130, z=180.000000
+15:19:30.725 : DEBUG: cartesian_to_actuator (end)
+15:19:30.937 : N445 G1 Y-113 F3000*47
+15:19:30.947 : DEBUG: cartesian_to_actuator (start)
+15:19:30.952 : DEBUG: cartesian_mm x=109.000000, y=-113.000000, z=180.000000
+15:19:30.958 : DEBUG: SCARA_pos x=36.000000, y=8.000000
+15:19:30.966 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.193347, Psi=2.824032
+15:19:30.966 : DEBUG: actuator_mm x=-68.373749, y=161.805130, z=180.000000
+15:19:30.966 : DEBUG: cartesian_to_actuator (end)
+15:19:31.173 : N446 G1 Y-112 F3000*45
+15:19:31.183 : DEBUG: cartesian_to_actuator (start)
+15:19:31.187 : DEBUG: cartesian_mm x=109.000000, y=-112.000000, z=180.000000
+15:19:31.193 : DEBUG: SCARA_pos x=36.000000, y=9.000000
+15:19:31.202 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.167037, Psi=2.824032
+15:19:31.202 : DEBUG: actuator_mm x=-66.866318, y=161.805130, z=180.000000
+15:19:31.202 : DEBUG: cartesian_to_actuator (end)
+15:19:31.399 : N447 G1 Y-111 F3000*47
+15:19:31.409 : DEBUG: cartesian_to_actuator (start)
+15:19:31.414 : DEBUG: cartesian_mm x=109.000000, y=-111.000000, z=180.000000
+15:19:31.420 : DEBUG: SCARA_pos x=36.000000, y=10.000000
+15:19:31.428 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.141069, Psi=2.824032
+15:19:31.428 : DEBUG: actuator_mm x=-65.378448, y=161.805130, z=180.000000
+15:19:31.429 : DEBUG: cartesian_to_actuator (end)
+15:19:31.811 : N448 G1 Y-110 F3000*33
+15:19:31.821 : DEBUG: cartesian_to_actuator (start)
+15:19:31.826 : DEBUG: cartesian_mm x=109.000000, y=-110.000000, z=180.000000
+15:19:31.832 : DEBUG: SCARA_pos x=36.000000, y=11.000000
+15:19:31.840 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.115470, Psi=2.824032
+15:19:31.840 : DEBUG: actuator_mm x=-63.911736, y=161.805130, z=180.000000
+15:19:31.841 : DEBUG: cartesian_to_actuator (end)
+15:19:32.053 : N449 G1 Y-109 F3000*40
+15:19:32.063 : DEBUG: cartesian_to_actuator (start)
+15:19:32.068 : DEBUG: cartesian_mm x=109.000000, y=-109.000000, z=180.000000
+15:19:32.074 : DEBUG: SCARA_pos x=36.000000, y=12.000000
+15:19:32.082 : DEBUG: C2=-0.950000, S2=0.312250, Theta=-1.090266, Psi=2.824032
+15:19:32.082 : DEBUG: actuator_mm x=-62.467609, y=161.805130, z=180.000000
+15:19:32.082 : DEBUG: cartesian_to_actuator (end)
+15:19:32.285 : N450 G1 Y-108 F3000*33
+15:19:32.295 : DEBUG: cartesian_to_actuator (start)
+15:19:32.300 : DEBUG: cartesian_mm x=109.000000, y=-108.000000, z=180.000000
+15:19:32.305 : DEBUG: SCARA_pos x=36.000000, y=13.000000
+15:19:32.314 : DEBUG: C2=-0.949132, S2=0.314879, Theta=-1.064093, Psi=2.821264
+15:19:32.314 : DEBUG: actuator_mm x=-60.968040, y=161.646515, z=180.000000
+15:19:32.314 : DEBUG: cartesian_to_actuator (end)
+15:19:32.561 : N451 G1 Y-107 F3000*47
+15:19:32.570 : DEBUG: cartesian_to_actuator (start)
+15:19:32.575 : DEBUG: cartesian_mm x=109.000000, y=-107.000000, z=180.000000
+15:19:32.581 : DEBUG: SCARA_pos x=36.000000, y=14.000000
+15:19:32.589 : DEBUG: C2=-0.948194, S2=0.317691, Theta=-1.038259, Psi=2.818300
+15:19:32.589 : DEBUG: actuator_mm x=-59.487831, y=161.476669, z=180.000000
+15:19:32.589 : DEBUG: cartesian_to_actuator (end)
+15:19:32.858 : N452 G1 Y-106 F3000*45
+15:19:32.868 : DEBUG: cartesian_to_actuator (start)
+15:19:32.872 : DEBUG: cartesian_mm x=109.000000, y=-106.000000, z=180.000000
+15:19:32.878 : DEBUG: SCARA_pos x=36.000000, y=15.000000
+15:19:32.887 : DEBUG: C2=-0.947187, S2=0.320680, Theta=-1.012782, Psi=2.815145
+15:19:32.888 : DEBUG: actuator_mm x=-58.028103, y=161.295914, z=180.000000
+15:19:32.888 : DEBUG: cartesian_to_actuator (end)
+15:19:33.123 : N454 G1 Y-105 F3000*40
+15:19:33.133 : DEBUG: cartesian_to_actuator (start)
+15:19:33.137 : DEBUG: cartesian_mm x=109.000000, y=-105.000000, z=180.000000
+15:19:33.143 : DEBUG: SCARA_pos x=36.000000, y=16.000000
+15:19:33.152 : DEBUG: C2=-0.946111, S2=0.323842, Theta=-0.987678, Psi=2.811805
+15:19:33.152 : DEBUG: actuator_mm x=-56.589790, y=161.104538, z=180.000000
+15:19:33.152 : DEBUG: cartesian_to_actuator (end)
+15:19:33.356 : N455 G1 Y-104 F3000*40
+15:19:33.366 : DEBUG: cartesian_to_actuator (start)
+15:19:33.371 : DEBUG: cartesian_mm x=109.000000, y=-104.000000, z=180.000000
+15:19:33.377 : DEBUG: SCARA_pos x=36.000000, y=17.000000
+15:19:33.386 : DEBUG: C2=-0.944965, S2=0.327171, Theta=-0.962963, Psi=2.808285
+15:19:33.386 : DEBUG: actuator_mm x=-55.173714, y=160.902863, z=180.000000
+15:19:33.386 : DEBUG: cartesian_to_actuator (end)
+15:19:33.598 : N456 G1 Y-103 F3000*44
+15:19:33.608 : DEBUG: cartesian_to_actuator (start)
+15:19:33.613 : DEBUG: cartesian_mm x=109.000000, y=-103.000000, z=180.000000
+15:19:33.619 : DEBUG: SCARA_pos x=36.000000, y=18.000000
+15:19:33.627 : DEBUG: C2=-0.943750, S2=0.330660, Theta=-0.938647, Psi=2.804590
+15:19:33.628 : DEBUG: actuator_mm x=-53.780529, y=160.691162, z=180.000000
+15:19:33.628 : DEBUG: cartesian_to_actuator (end)
+15:19:33.855 : N457 G1 Y-102 F3000*44
+15:19:33.865 : DEBUG: cartesian_to_actuator (start)
+15:19:33.869 : DEBUG: cartesian_mm x=109.000000, y=-102.000000, z=180.000000
+15:19:33.874 : DEBUG: SCARA_pos x=36.000000, y=19.000000
+15:19:33.883 : DEBUG: C2=-0.942465, S2=0.334304, Theta=-0.914741, Psi=2.800726
+15:19:33.883 : DEBUG: actuator_mm x=-52.410793, y=160.469772, z=180.000000
+15:19:33.883 : DEBUG: cartesian_to_actuator (end)
+15:19:34.070 : N458 G1 Y-101 F3000*32
+15:19:34.080 : DEBUG: cartesian_to_actuator (start)
+15:19:34.085 : DEBUG: cartesian_mm x=109.000000, y=-101.000000, z=180.000000
+15:19:34.091 : DEBUG: SCARA_pos x=36.000000, y=20.000000
+15:19:34.100 : DEBUG: C2=-0.941111, S2=0.338097, Theta=-0.891251, Psi=2.796698
+15:19:34.100 : DEBUG: actuator_mm x=-51.064896, y=160.238983, z=180.000000
+15:19:34.100 : DEBUG: cartesian_to_actuator (end)
+
+15:19:34.300 : N459 G1 Y-100 F3000*32
+15:19:34.310 : DEBUG: cartesian_to_actuator (start)
+15:19:34.315 : DEBUG: cartesian_mm x=109.000000, y=-100.000000, z=180.000000
+15:19:34.321 : DEBUG: SCARA_pos x=36.000000, y=21.000000
+15:19:34.329 : DEBUG: C2=-0.939687, S2=0.342034, Theta=-0.868181, Psi=2.792512
+15:19:34.329 : DEBUG: actuator_mm x=-49.743126, y=159.999146, z=180.000000
+15:19:34.329 : DEBUG: cartesian_to_actuator (end)
+
+15:19:34.518 : N460 G1 Y-99 F3000*27
+15:19:34.529 : DEBUG: cartesian_to_actuator (start)
+15:19:34.533 : DEBUG: cartesian_mm x=109.000000, y=-99.000000, z=180.000000
+15:19:34.539 : DEBUG: SCARA_pos x=36.000000, y=22.000000
+15:19:34.548 : DEBUG: C2=-0.938194, S2=0.346109, Theta=-0.845537, Psi=2.788172
+15:19:34.548 : DEBUG: actuator_mm x=-48.445694, y=159.750504, z=180.000000
+15:19:34.548 : DEBUG: cartesian_to_actuator (end)
+
+15:19:34.737 : N461 G1 Y-98 F3000*27
+15:19:34.747 : DEBUG: cartesian_to_actuator (start)
+15:19:34.752 : DEBUG: cartesian_mm x=109.000000, y=-98.000000, z=180.000000
+15:19:34.758 : DEBUG: SCARA_pos x=36.000000, y=23.000000
+15:19:34.766 : DEBUG: C2=-0.936632, S2=0.350315, Theta=-0.823318, Psi=2.783685
+15:19:34.766 : DEBUG: actuator_mm x=-47.172646, y=159.493408, z=180.000000
+15:19:34.766 : DEBUG: cartesian_to_actuator (end)
+
+15:19:34.928 : N462 G1 Y-97 F3000*23
+15:19:34.939 : DEBUG: cartesian_to_actuator (start)
+15:19:34.943 : DEBUG: cartesian_mm x=109.000000, y=-97.000000, z=180.000000
+15:19:34.949 : DEBUG: SCARA_pos x=36.000000, y=24.000000
+15:19:34.958 : DEBUG: C2=-0.935000, S2=0.354648, Theta=-0.801525, Psi=2.779055
+15:19:34.958 : DEBUG: actuator_mm x=-45.924000, y=159.228134, z=180.000000
+15:19:34.958 : DEBUG: cartesian_to_actuator (end)
+
+
+15:19:35.956 : N463 G28*18
+15:19:35.966 : DEBUG: cartesian_to_actuator (start)
+15:19:35.970 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:19:35.980 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:19:35.984 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:19:35.987 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:19:35.987 : DEBUG: cartesian_to_actuator (end)
+15:19:35.997 : DEBUG: cartesian_to_actuator (start)
+15:19:36.003 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:19:36.003 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:19:36.007 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:19:36.014 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:19:36.019 : DEBUG: cartesian_to_actuator (end)
+15:19:36.019 : DEBUG: cartesian_to_actuator (start)
+15:19:36.024 : DEBUG: cartesian_mm x=-30.000000, y=30.000000, z=0.000000
+15:19:36.029 : DEBUG: SCARA_pos x=-103.000000, y=151.000000
+15:19:36.037 : DEBUG: C2=0.160069, S2=0.987106, Theta=1.464403, Psi=1.410035
+15:19:36.037 : DEBUG: actuator_mm x=83.904106, y=80.789062, z=0.000000
+15:19:36.038 : DEBUG: cartesian_to_actuator (end)
+15:19:50.496 : DEBUG: actuator_to_cartesian (start)
+15:19:50.503 : DEBUG: actuator_mm x = 210.964783, y = -37.916260
+15:19:50.504 : DEBUG: x_sin =  -61.741348
+15:19:50.507 : DEBUG: x_cos =  -102.898033
+15:19:50.507 : DEBUG: y_sin =  14.523414
+15:19:50.514 : DEBUG: y_cos =  -119.117882
+15:19:50.514 : DEBUG: cartesian_mm[X_AXIS] = -149.015915
+15:19:50.518 : DEBUG: cartesian_mm[Y_AXIS] =  -168.217926
+15:19:50.523 : DEBUG: actuator_to_cartesian (end)
+15:19:50.523 : DEBUG: cartesian_to_actuator (start)
+15:19:50.528 : DEBUG: cartesian_mm x=-149.015915, y=-168.217926, z=-0.001667
+15:19:50.533 : DEBUG: SCARA_pos x=-222.015915, y=-47.217926
+15:19:50.542 : DEBUG: C2=0.788910, S2=0.614509, Theta=3.020267, Psi=0.661764
+15:19:50.545 : DEBUG: actuator_mm x=173.048523, y=37.916264, z=-0.001667
+15:19:50.545 : DEBUG: cartesian_to_actuator (end)
+15:19:50.554 : DEBUG: cartesian_to_actuator (start)
+15:19:50.560 : DEBUG: cartesian_mm x=240.000000, y=30.000000, z=180.000000
+15:19:50.560 : DEBUG: SCARA_pos x=167.000000, y=151.000000
+15:19:50.566 : DEBUG: C2=0.760069, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:19:50.572 : DEBUG: actuator_mm x=21.854780, y=40.529675, z=180.000000
+15:19:50.576 : DEBUG: cartesian_to_actuator (end)
+15:19:50.584 : DEBUG: actuator_to_cartesian (start)
+15:19:50.584 : DEBUG: actuator_mm x = 21.854780, y = 40.529675
+15:19:50.588 : DEBUG: x_sin =  44.670650
+15:19:50.589 : DEBUG: x_cos =  111.375648
+15:19:50.592 : DEBUG: y_sin =  106.329338
+15:19:50.592 : DEBUG: y_cos =  55.624378
+15:19:50.599 : DEBUG: cartesian_mm[X_AXIS] = 240.000031
+15:19:50.599 : DEBUG: cartesian_mm[Y_AXIS] =  29.999985
+15:19:50.604 : DEBUG: actuator_to_cartesian (end)
+15:19:50.604 : DEBUG: cartesian_to_actuator (start)
+15:19:50.609 : DEBUG: cartesian_mm x=240.000031, y=29.999985, z=180.000000
+15:19:50.615 : DEBUG: SCARA_pos x=167.000031, y=150.999985
+15:19:50.623 : DEBUG: C2=0.760070, S2=0.649842, Theta=0.381438, Psi=0.707376
+15:19:50.623 : DEBUG: actuator_mm x=21.854784, y=40.529655, z=180.000000
+15:19:50.623 : DEBUG: cartesian_to_actuator (end)
+15:19:54.340 : N470 M84*28
